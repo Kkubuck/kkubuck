@@ -19,5 +19,5 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck&theme=vue&&show_icons=true)
   
 # Blog
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29)](https://jms3084.tistory.com)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=vue)](https://jms3084.tistory.com)
 </div>
