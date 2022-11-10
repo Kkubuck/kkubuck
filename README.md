@@ -42,7 +42,7 @@
 |March.2023 ~ | Data structure | C.E. 2nd grade class | H.L. Jang |
 
 # Competitions
-|     *Platform*      |         *Competition*   |        *Type*      | *Team* | *Result* | *Leaderboard*|
+|     *Platform*      |         *Competition*   |        *Type*      |       *Team*       |    *Result*    | *Leaderboard*|
 |:-------------:|:-------------------:|:---------------------:|:------------:|:------------:|:------------:|
 | DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | classification | Aim. Lab.| 🥇 1/192 | https://dacon.io/competitions/official/235902/leaderboard|
 | DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | Aim. Lab.| 🥉 10/77 | https://dacon.io/competitions/official/235970/leaderboard|
