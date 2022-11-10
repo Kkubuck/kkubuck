@@ -54,8 +54,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkubuck)](https://github.com/Kkubuck/github-readme-stats)
 
 ## Contact
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) nacl3084@gmail.com </br>
-  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) Kkubuck
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **nacl3084@gmail.com*8 </br>
+  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) **Kkubuck**
 </div>
 
 <a href="https://github.com/Kkubuck"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kkubuck&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
