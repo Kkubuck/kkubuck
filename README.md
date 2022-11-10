@@ -11,9 +11,11 @@
   </br>
 
 # Interests
-  - Computer Science
-    - Computer Vision
-    - Optical character recognition OCR
+  **Computer Science**
+  </br>
+  **Computer Vision**
+  </br>
+  **Optical character recognition OCR**
   
 # Language
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
