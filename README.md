@@ -3,11 +3,9 @@
 <div align="center">
 
 # profile
-  **Nationality : Republic of Korea**
-  <\br>
-  **Birth : 2000**
-  <\br>
-  **Major : Computer Engineering**
+  **Nationality : Republic of Korea**<\br>
+  **Birth : 2000**<\br>
+  **Major : Computer Engineering**<\br>
   
 # Language
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
