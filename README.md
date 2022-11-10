@@ -20,5 +20,6 @@
   
 # Blog
   [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Kkubuck})](https://jms3084.tistory.com)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={Kkubuck}&postId={Kkubuck})](https://jms3084.tistory.com)
 
 </div>
