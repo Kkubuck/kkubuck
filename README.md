@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?height=300&text=Welcome&&fontSize=80&&animation=fadeIn&&type=waving&color=gradient&section=header&desc=Kkubuck's_github&fontAlignY=40)
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck&theme=vue&&show_icons=true)  
+
 <div align="center">
 
 # profile
@@ -40,9 +41,7 @@
 # 🥇Competitions
   **DACON: SW중심대학 공동 AI 경진대회 ❮예선❯: classification (1/192), [Team name : "Aim. Lab.", Leader] https://dacon.io/competitions/official/235902/leaderboard** </br>
   **DACON: SW중심대학 공동 AI 경진대회 ❮본선❯: OCR (10/77), [Team name : "Aim. Lab.", Leader] https://dacon.io/competitions/official/235970/leaderboard**
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck&theme=vue&&show_icons=true)
-
+ 
 # Blog
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=vue)](https://jms3084.tistory.com)
 </div>
