@@ -24,8 +24,9 @@
 |May.2022|Join Lab.|Undergraduate Researcher|Join "ArtificialIntelligence & MediaLaboratory (AIM) Lab." Research Topic : Computer Vision, Hanbat Univ.<br>[AIM Lab. SITE](https://sites.google.com/view/aim-lab-hbnu/home?authuser=0)|
 |May.2022 ~|Seminar|Seminar about AI|Study ML, DL|
 
-# Competitions
-  **DACON: SW중심대학 공동 AI 경진대회 ❮예선❯: classification (1/192), [Team name : "Aim. Lab.", Leader] https://dacon.io/competitions/official/235902/leaderboard
+# 🥇Competitions
+  **DACON: SW중심대학 공동 AI 경진대회 ❮예선❯: classification (1/192), [Team name : "Aim. Lab.", Leader] https://dacon.io/competitions/official/235902/leaderboard** </br>
+  **DACON: SW중심대학 공동 AI 경진대회 ❮본선❯: OCR (10/77), [Team name : "Aim. Lab.", Leader] https://dacon.io/competitions/official/235970/leaderboard**
   
   
 # Language
