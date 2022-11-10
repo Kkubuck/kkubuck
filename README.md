@@ -42,15 +42,10 @@
 |March.2023 ~ | Data structure | C.E. 2nd grade class | H.L. Jang |
 
 # Competitions
-|     *host*      |         *Competition*   |        *type*      | *result* | *team* | *Leaderboard*|
+|     *Platform*      |         *Competition*   |        *Type*      | *Team* | *Result* | *Leaderboard*|
 |:-------------:|:-------------------:|:---------------------:|:------------:|:------------:|:------------:|
-|DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | classification |🥇 1/192 |Aim. Lab.|https://dacon.io/competitions/official/235902/leaderboard|
-|DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR |🥉 10/77 |Aim. Lab.|https://dacon.io/competitions/official/235970/leaderboard|
-
-
-# Competitions
-  🥇**DACON: SW중심대학 공동 AI 경진대회 ❮예선❯: classification (1/192), [Team name : "Aim. Lab.", Leader] https://dacon.io/competitions/official/235902/leaderboard** </br>
-  🥉**DACON: SW중심대학 공동 AI 경진대회 ❮본선❯: OCR (10/77), [Team name : "Aim. Lab.", Leader] https://dacon.io/competitions/official/235970/leaderboard**
+| DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | classification | Aim. Lab.| 🥇 1/192 | https://dacon.io/competitions/official/235902/leaderboard|
+| DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | Aim. Lab.| 🥉 10/77 | https://dacon.io/competitions/official/235970/leaderboard|
  
 # Blog
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=vue)](https://jms3084.tistory.com)
