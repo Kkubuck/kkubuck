@@ -51,11 +51,11 @@
  
 # BAEKJOON
   [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nacl3084)](https://solved.ac/nacl3084)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+
+# Github
+
   
 # Contact
   📬 nacl3084@gmail.com
-
-</div>
-
 <a href="https://github.com/Kkubuck"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kkubuck&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+</div>
