@@ -53,6 +53,8 @@
   [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nacl3084)](https://solved.ac/nacl3084)
 
 # Github
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck)](https://github.com/Kkubuck/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkubuck)](https://github.com/Kkubuck/github-readme-stats)
 
   
 # Contact
