@@ -42,4 +42,7 @@
  
 # Blog
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=vue)](https://jms3084.tistory.com)
+  
+# Contact
+  📬 nacl3084@gmail.com
 </div>
