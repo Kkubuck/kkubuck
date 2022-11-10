@@ -43,8 +43,8 @@
 ## 🏆️ Competitions 🏆️
 |     *Platform*      |         *Competition*   |        *Type*      |       *Team*       |    *Result*    | *Leaderboard*|
 |:-------------:|:-------------------:|:---------------------:|:------------:|:------------:|:------------:|
-| DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | classification | Aim. Lab.| 🥇 1/192 (top 0.5%) | https://dacon.io/competitions/official/235902/leaderboard|
-| DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | Aim. Lab.| 🥉 10/77 (top 12.9%) | https://dacon.io/competitions/official/235970/leaderboard|
+| DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | classification | AIM Lab.| 🥇 1/192 (top 0.5%) | https://dacon.io/competitions/official/235902/leaderboard|
+| DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | AIM Lab.| 🥉 10/77 (top 12.9%) | https://dacon.io/competitions/official/235970/leaderboard|
  
 ## Tech Blog 
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=santorini)](https://jms3084.tistory.com)
