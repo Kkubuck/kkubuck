@@ -51,7 +51,7 @@
 
 ## BAEKJOON
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nacl3084)](https://solved.ac/nacl3084/)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=nacl3084&theme=warm)
  
 ## Statistics
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck)](https://github.com/Kkubuck/github-readme-stats)
