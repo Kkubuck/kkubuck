@@ -17,4 +17,8 @@
   </br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck&theme=vue&&show_icons=true)
+  
+#Blog
+  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Kkubuck})](https://github.com/loosie/github-readme-tistory-card)
+
 </div>
