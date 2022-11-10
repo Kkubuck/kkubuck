@@ -4,7 +4,9 @@
 
 # profile
   **Nationality : Republic of Korea**
+  <\br>
   **Birth : 2000**
+  <\br>
   **Major : Computer Engineering**
   
 # Language
