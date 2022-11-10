@@ -15,7 +15,14 @@
   </br>
   **Computer Vision**
   </br>
-  **Optical character recognition OCR**
+  **Optical character recognition (OCR)**
+
+# Internship
+제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
   
 # Language
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
