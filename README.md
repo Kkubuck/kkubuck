@@ -55,7 +55,7 @@
 
 ## 📬 Contact 📬
 
-  <a href="nacl3084@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **nacl3084@gmail.com**
+  <a href="matilto:hey.nacl3084@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **nacl3084@gmail.com**
   <a href="https://github.com/Kkubuck">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 
   
 </div>
