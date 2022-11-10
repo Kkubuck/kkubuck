@@ -9,6 +9,7 @@
   </br>
   **Major : Computer Engineering**
   </br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck&theme=vue&&show_icons=true)  
 
 # Language
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,8 +23,6 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   </br>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck&theme=vue&&show_icons=true)  
   
 # Interests
   **Computer Science**
