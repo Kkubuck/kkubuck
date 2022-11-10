@@ -49,8 +49,8 @@
 # Blog
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=vue)](https://jms3084.tistory.com)
   
-#BAEKJOON
-  [![https://solved.ac/profile/nacl3084](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+# BAEKJOON
+  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nacl3084)](https://solved.ac/nacl3084)
 
 
 # Contact
