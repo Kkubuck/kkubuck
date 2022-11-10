@@ -2,7 +2,7 @@
 
 <div align="center">
 
- ## 😺 profile 😺
+ ## 😺 Profile 😺
   **Nationality : Republic of Korea**
   </br>
   **Birth : 2000**
@@ -49,13 +49,13 @@
 ## Blog 
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=santorini)](https://jms3084.tistory.com)
 
-## Github
+## Statistics
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck)](https://github.com/Kkubuck/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkubuck)](https://github.com/Kkubuck/github-readme-stats)
 
-## Contact
+## 📬 Contact 📬
 
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **nacl3084@gmail.com**
   ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) **Kkubuck**
   
 </div>
