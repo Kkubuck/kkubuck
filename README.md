@@ -9,7 +9,7 @@
   </br>
   **Major : Computer Engineering**
   </br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubu&theme=vue&&show_icons=true)  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck&theme=vue&&show_icons=true)  
 
 # Language & ML/DL
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
