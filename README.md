@@ -35,7 +35,7 @@
 |May.2022|Join Lab.|Undergraduate Researcher|Join "ArtificialIntelligence & MediaLaboratory (AIM) Lab." Research Topic : Computer Vision, Hanbat Univ.<br>[AIM Lab. SITE](https://sites.google.com/view/aim-lab-hbnu/home?authuser=0)|
 |July.2022 ~ Sep.2022 ~|Seminar|Seminar about AI|Study "혼자 공부하는 머신러닝+딥러닝"|
 
-## Teaching Experience
+### Teaching Experience
 |     *Date*      |         *Class*   |        *Details*      | *Professor* |
 |:-------------:|:-------------------:|:---------------------:|:------------:|
 |March.2023 ~ | Data structure | C.E. 2nd grade class | H.L. Jang |
@@ -46,7 +46,7 @@
 | DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | classification | Aim. Lab.| 🥇 1/192 | https://dacon.io/competitions/official/235902/leaderboard|
 | DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | Aim. Lab.| 🥉 10/77 | https://dacon.io/competitions/official/235970/leaderboard|
  
-### Blog 
+## Blog 
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=vue)](https://jms3084.tistory.com)
  
 ### BAEKJOON
