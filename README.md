@@ -46,13 +46,10 @@
 | DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | classification | Aim. Lab.| 🥇 1/192 | https://dacon.io/competitions/official/235902/leaderboard|
 | DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | Aim. Lab.| 🥉 10/77 | https://dacon.io/competitions/official/235970/leaderboard|
  
-# Blog
+# Blog & BAEKJOON
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=vue)](https://jms3084.tistory.com)
-  
-# BAEKJOON
   [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nacl3084)](https://solved.ac/nacl3084)
-
-
+  
 # Contact
   📬 nacl3084@gmail.com
 
