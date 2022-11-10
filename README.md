@@ -47,7 +47,7 @@
 | DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | Aim. Lab.| 🥉 10/77 | https://dacon.io/competitions/official/235970/leaderboard|
  
 ## Blog 
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=vue)](https://jms3084.tistory.com)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=santorini)](https://jms3084.tistory.com)
 
 ## Github
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck)](https://github.com/Kkubuck/github-readme-stats)
