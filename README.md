@@ -20,4 +20,5 @@
   
 # Blog
   [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Kkubuck&theme=kakao)](https://jms3084.tistory.com)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084)](https://jms3084.tistory.com)
 </div>
