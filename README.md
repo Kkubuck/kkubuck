@@ -38,7 +38,7 @@
 ## 👨‍🏫 Teaching Experience 👨‍🏫
 |     *Date*      |         *Class*   |        *Details*      | *Professor* |
 |:-------------:|:-------------------:|:---------------------:|:------------:|
-|March.2023 ~ | Data structure | C.E. 2nd grade class | H.L. Jang |
+|March.2023 ~ | Data structure | C.E. 2nd grade class | H.E. Jang |
 
 ## 🏆️ Competitions 🏆️
 |     *Platform*      |         *Competition*   |        *Type*      |       *Team*       |    *Result*    | *Leaderboard*|
@@ -52,8 +52,7 @@
 ## BAEKJOON
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nacl3084)](https://solved.ac/nacl3084/)
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
-  
-
+ 
 ## Statistics
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck)](https://github.com/Kkubuck/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkubuck)](https://github.com/Kkubuck/github-readme-stats)
