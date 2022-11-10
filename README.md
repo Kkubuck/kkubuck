@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?height=300&text=Welcome&&fontSize=80&&animation=fadeIn&&type=waving&color=gradient&section=header&desc=Kkubuck's_github&fontAlignY=40)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck&theme=vue&&show_icons=true)  
 
 <div align="center">
 
@@ -23,6 +22,8 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   </br>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkubuck&theme=vue&&show_icons=true)  
   
 # Interests
   **Computer Science**
