@@ -19,8 +19,8 @@
 
 # Internship
 **AIM Lab.**
-|------|---|---|---|
-|Date|Type|Contents|Details|
+|     *Date*      |         *Type*        |          *Contents*         |   *Details* |
+|:-------------:|:-------------------:|:-------------------------:|:----------:|
 |May.2022|Join Lab.|Undergraduate Researcher|Join "ArtificialIntelligence & MediaLaboratory (AIM) Lab." Research Topic : Computer Vision, Hanbat Univ.
 [AIM Lab. SITE](https://sites.google.com/view/aim-lab-hbnu/home?authuser=0)|
 |May.2022 ~|Seminar|Seminar about AI|Study ML, DL|
