@@ -50,7 +50,7 @@
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=santorini)](https://jms3084.tistory.com)
 
 ## Baekjoon
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=nacl3084)](https://solved.ac/{nacl3084})
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={nacl3084})](https://solved.ac/{nacl3084})
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=nacl3084&theme=warm)
  
 ## Statistics
