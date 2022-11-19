@@ -41,10 +41,11 @@
 |March.2023 ~ | Data structure | C.E. 2nd grade class | H.E. Jang |
 
 ## 🏆️ Competitions 🏆️
-|    *Result*    |     *Platform*      |         *Competition*   |        *Type*      |       *Team*       | *Leaderboard*|
+|    *Prize*    |     *Platform*      |         *Name*   |        *Type*      |       *Team*       | *Link*|
 |:-------------:|:-------------------:|:---------------------:|:------------:|:------------:|:------------:|
 |🥇 1/192 (top 1%)| DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | classification | AIM Lab.|  https://dacon.io/competitions/official/235902/leaderboard|
 |🥉 8/77 (top 10.3%)| DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | AIM Lab.| https://dacon.io/competitions/official/235970/leaderboard|
+|한밭대학교 총장상| 나눔과 기술 | 2022 창의설계 온라인 경진대회 | Section E | AIM|  http://joyinstech.iptime.org:7788/|
  
 ## 🔗 Tech Blog 🔗 
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=santorini)](https://jms3084.tistory.com)
