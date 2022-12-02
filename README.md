@@ -22,7 +22,7 @@
   </br>
   
 ## 🔥 Interests 🔥
-  **Computer Science**
+  **ata analysis**
   </br>
   **Computer Vision**
   </br>
