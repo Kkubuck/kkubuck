@@ -50,6 +50,7 @@
 |185/712 (top 25.9%)| DACON | 제주도 도로 교통량 예측 AI 경진대회 | regression | AIM Lab.| https://dacon.io/competitions/official/235985/leaderboard|
 |한밭대학교 총장상| 나눔과 기술 | 2022 창의설계 온라인 경진대회 | Section E | AIM|  [[AIM]HNU President's Award](https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png)|
 |우수 논문상| KDFS | 2022년 한국디지털포렌식학회 동계학술대회 | OCR | AIM | https://kdfs.jams.or.kr/co/main/jmMain.kci |
+|입상| 한밭대학교 컴퓨터공학과 | 2022학년도 컴퓨터공학과 포트폴리오경진대회 | Portfolio | 개인 | https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do |
 
 ## 📝 Journal 📝
 |    *Company*    |     *Title*      |      *Date*   |       *author*       |
