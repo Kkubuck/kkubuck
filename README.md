@@ -22,8 +22,6 @@
   </br>
   
 ## 🔥 Interests 🔥
-  **Data analysis**
-  </br>
   **Computer Vision**
   </br>
   **Autoencoder, GAN**
