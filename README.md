@@ -38,8 +38,8 @@
 **AIM Lab.**
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
-|May.2022|Join Lab.|Undergraduate Researcher|Join "ArtificialIntelligence & MediaLaboratory (AIM) Lab." Research Topic : Computer Vision, Hanbat Univ.<br>[AIM Lab. SITE](https://sites.google.com/view/aim-lab-hbnu/home?authuser=0)|
-|July.2022 ~ Sep.2022|Seminar|Seminar about AI|Study "혼자 공부하는 머신러닝+딥러닝"|
+|May.2022|Join Lab.|Undergraduate Researcher|Join "ArtificialIntelligence & MediaLaboratory (AIM) Lab." Research Topic : Computer Vision, Hanbat Univ.<br>[AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home?authuser=0)|
+|July.2022 ~ Sep.2022|Seminar|Seminar about AI|Study "혼자 공부하는 머신러닝 + 딥러닝"|
 |December.2022 ~ January.2023|Seminar|Seminar about competition|LivDet2023: fingerprint liveness detection <br> [Challenge 1](https://livdet.diee.unica.it/index.php/home/algorithm-specifications)|
 |February.2023 ~ |Personal Study|AI Study|Coursera: Deep Learning, Machine Learning|
 
