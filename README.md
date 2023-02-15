@@ -27,12 +27,12 @@
   **Autoencoder, Anomaly Detection**
 
 ## 📋 Certificate 📋
-|     *Platform*      |     *Date*     |         *Type*        |          *Name*         |   *Link* |
+|     *Platform*      |     *Date*     |         *Type*        |          *Name*         |   *Certificate* |
 |:-------------:|:----------:|:-----------------:|:------------------------:|:----------:|
-|Coursera|January.2023| Deep Learning |Neural Networks and Deep Learning|[certificate](https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK)|
-|Coursera|February.2023| Deep Learning |Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization|[certificate](https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN)|
-|Coursera|February.2023| Deep Learning |Structuring Machine Learning Projects|[certificate](https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ)|
-|Coursera|February.2023| Deep Learning |Convolutional Neural Networks|[certificate](https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL)|
+|Coursera|January.2023| Deep Learning |Neural Networks and Deep Learning|[class 1](https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK)|
+|Coursera|February.2023| Deep Learning |Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization|[calss 2](https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN)|
+|Coursera|February.2023| Deep Learning |Structuring Machine Learning Projects|[class 3](https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ)|
+|Coursera|February.2023| Deep Learning |Convolutional Neural Networks|[class 4](https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL)|
 
 ## ⚙️ Internship ⚙️
 **AIM Lab.**
