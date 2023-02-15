@@ -26,13 +26,13 @@
   </br>
   **Autoencoder, Anomaly Detection**
 
-## 📋 certificate 📋
+## 📋 Certificate 📋
 |     *Platform*      |     *Date*     |         *Type*        |          *Name*         |   *Link* |
 |:-------------:|:----------:|:-----------------:|:------------------------:|:----------:|
-|Coursera|2023. 01| Deep Learning |Neural Networks and Deep Learning|[certificate](https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK)|
-|Coursera|2023. 02| Deep Learning |Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization|[certificate](https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN)|
-|Coursera|2023. 02| Deep Learning |Structuring Machine Learning Projects|[certificate](https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ)|
-|Coursera|2023. 02| Deep Learning |Convolutional Neural Networks|[certificate](https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL)|
+|Coursera|January.2023| Deep Learning |Neural Networks and Deep Learning|[certificate](https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK)|
+|Coursera|February.2023| Deep Learning |Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization|[certificate](https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN)|
+|Coursera|February.2023| Deep Learning |Structuring Machine Learning Projects|[certificate](https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ)|
+|Coursera|February.2023| Deep Learning |Convolutional Neural Networks|[certificate](https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL)|
 
 ## ⚙️ Internship ⚙️
 **AIM Lab.**
@@ -48,15 +48,15 @@
 |:-------------:|:-------------------:|:---------------------:|:------------:|
 |March.2023 ~ | Data structure | C.E. 2nd grade class | H.E. Jang |
 
-## 🏆️ Awards 🏆️
+## 🏆️ Awards and Honors 🏆️
 |    *Prize*    |     *Platform*      |      *Name*   |        *Type*      |       *Team*       | *Link*|
 |:---------------:|:------------:|:-----------------------:|:-------------:|:----------:|:-----------:|
 |1/192 (top 0.52%)| DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | classification | AIM Lab.|  [private](https://dacon.io/competitions/official/235902/leaderboard)|
 |8/77 (top 10.3%)| DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | AIM Lab.| [private](https://dacon.io/competitions/official/235970/leaderboard)|
 |185/712 (top 25.9%)| DACON | 제주도 도로 교통량 예측 AI 경진대회 | regression | AIM Lab.| [private](https://dacon.io/competitions/official/235985/leaderboard)|
-|한밭대학교 총장상| 나눔과 기술 | 2022 창의설계 온라인 경진대회 | Section E | AIM Lab.|  [link](https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png)|
-|우수 논문상| KDFS | 2022 한국디지털포렌식학회 동계학술대회 | OCR | AIM Lab. | [link](https://kdfs.jams.or.kr/co/main/jmMain.kci) |
-|입상| 한밭대학교 컴퓨터공학과 | 2022 컴퓨터공학과 포트폴리오경진대회 | Portfolio | Personal | [link](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do )|
+|Special Award| Sharing and Technologies | 2022 창의설계 온라인 경진대회 | Section E | AIM Lab.|  [link](https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png)|
+|Paper Award| KDFS | 2022 한국디지털포렌식학회 동계학술대회 | OCR | AIM Lab. | [link](https://kdfs.jams.or.kr/co/main/jmMain.kci) |
+|Award| 한밭대학교 컴퓨터공학과 | 2022 컴퓨터공학과 포트폴리오경진대회 | Portfolio | Personal | [link](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do )|
 
 ## 📝 Journal 📝
 |    *Company*    |     *Title*      |      *Date*   |       *author*       |
