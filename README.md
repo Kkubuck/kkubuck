@@ -25,7 +25,15 @@
   **Computer Vision**
   </br>
   **Autoencoder, Anomaly Detection**
-  
+
+## 📋 certificate 📋
+|     *Platform*      |     *Date*     |         *Type*        |          *Name*         |   *Link* |
+|:-------------:|:----------:|:-----------------:|:------------------------:|:----------:|
+|Coursera|2023. 01| Deep Learning |Neural Networks and Deep Learning|[certificate](https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK)|
+|Coursera|2023. 02| Deep Learning |Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization|[certificate](https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN)|
+|Coursera|2023. 02| Deep Learning |Structuring Machine Learning Projects|[certificate](https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ)|
+|Coursera|2023. 02| Deep Learning |Convolutional Neural Networks|[certificate](https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL)|
+
 ## ⚙️ Internship ⚙️
 **AIM Lab.**
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
@@ -42,7 +50,7 @@
 
 ## 🏆️ Awards 🏆️
 |    *Prize*    |     *Platform*      |      *Name*   |        *Type*      |       *Team*       | *Link*|
-|:-------------:|:-------------------:|:---------------------:|:------------:|:------------:|:------------:|
+|:---------------:|:------------:|:-----------------------:|:-------------:|:----------:|:-----------:|
 |1/192 (top 0.52%)| DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | classification | AIM Lab.|  [private](https://dacon.io/competitions/official/235902/leaderboard)|
 |8/77 (top 10.3%)| DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | AIM Lab.| [private](https://dacon.io/competitions/official/235970/leaderboard)|
 |185/712 (top 25.9%)| DACON | 제주도 도로 교통량 예측 AI 경진대회 | regression | AIM Lab.| [private](https://dacon.io/competitions/official/235985/leaderboard)|
@@ -52,7 +60,7 @@
 
 ## 📝 Journal 📝
 |    *Company*    |     *Title*      |      *Date*   |       *author*       |
-|:-------------:|:-------------------:|:---------------------:|:------------:|
+|:-------------:|:----------------------------:|:------------------------:|:--------------:|
 |KDFS| Development of Optical Character Recognition Modelfor Document Leak Investigation  | December.2022 |E.J. Jang, D.S. Kim, S.Y. Oh, J.S. Lee  |
 
 ## 🔗 Tech Blog 🔗 
