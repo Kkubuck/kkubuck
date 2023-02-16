@@ -46,6 +46,7 @@
 ## 👨‍🏫 Teaching Experience 👨‍🏫
 |     *Date*      |         *Class*   |        *Details*      | *Professor* |
 |:-------------:|:-------------------:|:---------------------:|:------------:|
+|January.2023 ~ January.2023 | HANBAT AI INTENSIVE COURSE | Undergraduate class | H.E. Jang |
 |March.2023 ~ | Data structure | C.E. 2nd grade class | H.E. Jang |
 
 ## 🏆️ Awards and Honors 🏆️
