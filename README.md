@@ -2,7 +2,7 @@
 
 <div align="center">
 
- ## 😺 Profile 😺
+ ##  Profile 
   **Nationality : Republic of Korea**
   </br>
   **Birth : 2000**
@@ -21,22 +21,23 @@
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   </br>
   
-## 🔥 Interests 🔥
+##  Interests 
   **Computer Vision**
   </br>
-  **Autoencoder, Anomaly Detection**
+  **Anomaly Detection**
+  </br>
+  **Autoencoder**
 
-## 📋 Certificate 📋
-|     *Platform*      |     *Date*     |         *Type*        |          *Name*         |   *Certificate* |
+##  Certificate 
+|     *Platform*      |     *Date*     |         *Course*        |          *Name*         |   *Certificate* |
 |:-------------:|:----------:|:-----------------:|:------------------------:|:----------:|
-|Coursera|January.2023| Deep Learning |Neural Networks and Deep Learning|[link](https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK)|
-|Coursera|February.2023| Deep Learning |Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization|[link](https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN)|
-|Coursera|February.2023| Deep Learning |Structuring Machine Learning Projects|[link](https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ)|
-|Coursera|February.2023| Deep Learning |Convolutional Neural Networks|[link](https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL)|
-|Coursera|February.2023| Deep Learning |Sequence Models|[link](https://www.coursera.org/account/accomplishments/certificate/PNBUVCG5J8D9)|
-|Coursera|February.2023| Deep Learning |Deep Learning Specialization|[link](https://www.coursera.org/account/accomplishments/specialization/certificate/3SMBEP5GVQMP)|
+|Coursera|January.2023| Deep Learning Specialization |Neural Networks and Deep Learning|[link](https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK)|
+|Coursera|February.2023| Deep Learning Specialization |Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization|[link](https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN)|
+|Coursera|February.2023| Deep Learning Specialization |Structuring Machine Learning Projects|[link](https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ)|
+|Coursera|February.2023| Deep Learning Specialization |Convolutional Neural Networks|[link](https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL)|
+|Coursera|February.2023| Deep Learning Specialization |Sequence Models|[link](https://www.coursera.org/account/accomplishments/certificate/PNBUVCG5J8D9)|
 
-## ⚙️ Internship ⚙️
+##  Internship 
 **AIM Lab.**
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
@@ -45,13 +46,13 @@
 |December.2022 ~ January.2023|Seminar|Seminar about competition|LivDet2023: fingerprint liveness detection <br> [Challenge 1](https://livdet.diee.unica.it/index.php/home/algorithm-specifications)|
 |February.2023 ~ |Personal Study|AI Study|Coursera: Deep Learning, Machine Learning|
 
-## 👨‍🏫 Teaching Experience 👨‍🏫
+##  Teaching Experience 
 |     *Date*      |         *Class*   |        *Details*      | *Professor* |
 |:-------------:|:-------------------:|:---------------------:|:------------:|
 | January.2023 | HANBAT AI INTENSIVE COURSE | Undergraduate class | H.E. Jang |
 |March.2023 ~ | Data structure | C.E. 2nd grade class | H.E. Jang |
 
-## 🏆️ Awards and Honors 🏆️
+##  Awards and Honors 
 |    *Prize*    |     *Platform*      |      *Name*   |        *Type*      |       *Team*       | *Link*|
 |:---------------:|:------------:|:-----------------------:|:-------------:|:----------:|:-----------:|
 |1/192 (top 0.52%)| DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | classification | AIM Lab.|  [private](https://dacon.io/competitions/official/235902/leaderboard)|
@@ -61,12 +62,12 @@
 |Paper Award| KDFS | 2022 한국디지털포렌식학회 동계학술대회 | OCR | AIM Lab. | [link](https://kdfs.jams.or.kr/co/main/jmMain.kci) |
 |Award| 한밭대학교 컴퓨터공학과 | 2022 컴퓨터공학과 포트폴리오경진대회 | Portfolio | Personal | [link](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do )|
 
-## 📝 Journal 📝
+##  Journal 
 |    *Company*    |     *Title*      |      *Date*   |       *author*       |
 |:-------------:|:----------------------------:|:------------------------:|:--------------:|
 |KDFS| Development of Optical Character Recognition Modelfor Document Leak Investigation  | December.2022 |E.J. Jang, D.S. Kim, S.Y. Oh, J.S. Lee  |
 
-## 🔗 Tech Blog 🔗 
+##  Tech Blog  
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=santorini)](https://jms3084.tistory.com)
  
 ## Statistics
@@ -76,7 +77,8 @@
 ## 📬 Contact 📬
 
   <a href="mailto:nacl3084@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  <a href="https://www.instagram.com/kkubuck/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 
+  <a href="https://www.instagram.com/kkubuck/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+  <a href="www.linkedin.com/in/jisanglee">![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   
 </div>
 <a href="https://github.com/Kkubuck"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kkubuck&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
