@@ -77,7 +77,6 @@
 ## 📬 Contact 📬
 
   <a href="mailto:nacl3084@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  <a href="https://www.instagram.com/kkubuck/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
   <a href="https://www.linkedin.com/in/jisanglee/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   
 </div>
