@@ -29,10 +29,12 @@
 ## 📋 Certificate 📋
 |     *Platform*      |     *Date*     |         *Type*        |          *Name*         |   *Certificate* |
 |:-------------:|:----------:|:-----------------:|:------------------------:|:----------:|
-|Coursera|January.2023| Deep Learning |Neural Networks and Deep Learning|[class 1](https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK)|
-|Coursera|February.2023| Deep Learning |Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization|[calss 2](https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN)|
-|Coursera|February.2023| Deep Learning |Structuring Machine Learning Projects|[class 3](https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ)|
-|Coursera|February.2023| Deep Learning |Convolutional Neural Networks|[class 4](https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL)|
+|Coursera|January.2023| Deep Learning |Neural Networks and Deep Learning|[link](https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK)|
+|Coursera|February.2023| Deep Learning |Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization|[link](https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN)|
+|Coursera|February.2023| Deep Learning |Structuring Machine Learning Projects|[link](https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ)|
+|Coursera|February.2023| Deep Learning |Convolutional Neural Networks|[link](https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL)|
+|Coursera|February.2023| Deep Learning |Sequence Models|[link](https://www.coursera.org/account/accomplishments/certificate/PNBUVCG5J8D9)|
+|Coursera|February.2023| Deep Learning |Deep Learning Specialization|[link](https://www.coursera.org/account/accomplishments/specialization/certificate/3SMBEP5GVQMP)|
 
 ## ⚙️ Internship ⚙️
 **AIM Lab.**
