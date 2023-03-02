@@ -62,7 +62,7 @@
 |Paper Award| KDFS | 2022 한국디지털포렌식학회 동계학술대회 | OCR | AIM Lab. | [link](https://kdfs.jams.or.kr/co/main/jmMain.kci) |
 |Award| 한밭대학교 컴퓨터공학과 | 2022 컴퓨터공학과 포트폴리오경진대회 | Portfolio | Personal | [link](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do )|
 
-##  Journal 
+##   
 |    *Company*    |     *Title*      |      *Date*   |       *author*       |
 |:-------------:|:----------------------------:|:------------------------:|:--------------:|
 |KDFS| Development of Optical Character Recognition Modelfor Document Leak Investigation  | December.2022 |E.J. Jang, D.S. Kim, S.Y. Oh, J.S. Lee  |
