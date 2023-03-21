@@ -23,10 +23,6 @@
   
 ##  Interests 
   **Computer Vision**
-  </br>
-  **Anomaly Detection**
-  </br>
-  **Autoencoder**
 
 ##  Certificate 
 |     *Platform*      |     *Date*     |         *Course*        |          *Name*         |   *Certificate* |
