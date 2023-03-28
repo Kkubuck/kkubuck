@@ -32,7 +32,7 @@
 |Coursera|February.2023| Deep Learning Specialization |Structuring Machine Learning Projects|[link](https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ)|
 |Coursera|February.2023| Deep Learning Specialization |Convolutional Neural Networks|[link](https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL)|
 |Coursera|February.2023| Deep Learning Specialization |Sequence Models|[link](https://www.coursera.org/account/accomplishments/certificate/PNBUVCG5J8D9)|
-
+|LivDet2023|January.2023| Fingerprint Liveness Detection Competition |Challenge 1|[link](https://drive.google.com/file/d/1XUErsGTVUVRhJNu2hnZS4oiAyvpXUYK1/view?usp=sharing)|
 ##  Internship 
 **AIM Lab.**
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
