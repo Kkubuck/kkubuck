@@ -69,7 +69,7 @@
 | Company | Title | Date | Authors | Awarded |
 |:---:|:---:|:---:|:---:|:---:|
 | KDFS | Development of Optical Character Recognition Model for Document Leak Investigation | December 2022 | E.J. Jang, D.S. Kim, S.Y. Oh, J.S. Lee | 학회장상 |
-| KDFS | Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model | June 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | 해안경찰청장상 |
+| KDFS | Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model | June 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | 해양경찰청장상 |
 
 ## 📝 Tech Blog  
 
