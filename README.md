@@ -62,7 +62,7 @@
 | Special Award | Sharing and Technologies | 2022 창의설계 온라인 경진대회 | Section E | AIM Lab. | [link](https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png) |
 | 학회장상 | KDFS | 2022 한국디지털포렌식학회 동계학술대회 | OCR | AIM Lab. | [link](https://kdfs.jams.or.kr/co/main/jmMain.kci) |
 | Award | 한밭대학교 컴퓨터공학과 | 2022 컴퓨터공학과 포트폴리오경진대회 | Portfolio | Personal | [link](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do ) |
-| 해양경찰청장상 | KDFS | 2023 한국디지털포렌식학회 하계학술대회 | ML | AIM Lab. | [link](https://kdfs.jams.or.kr/co/main/jmMain.kci) |
+| 해양경찰청장상 | KDFS | 2023 한국디지털포렌식학회 하계학술대회 | ML | AIM Lab. | [link](https://drive.google.com/file/d/1_pBVNSJTOPrg8lfhbsKrgbad0Rn8lz-9/view?usp=sharing) |
 
 ## 📚 Conference
 
