@@ -84,8 +84,8 @@
 
 ## 📚 Journal(KCI)
 
-| Company | Title | Date | Authors |
-|:---:|:---:|:---:|:---:|
+| Company | Title | Date | Authors | Link |
+|:---:|:---:|:---:|:---:|:---:|
 | Journal of Digital Forensics | Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters | October. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/1Bphb2oEKOOA7W3xFdr3JubWB54VeazLv/view?usp=drive_link) |
 
 ## 📝 Tech Blog  
