@@ -90,7 +90,7 @@
 
 ## 📝 Tech Blog  
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=29&theme=santorini)](https://jms3084.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=jms3084&postId=39&theme=santorini)](https://jms3084.tistory.com)
 
 ## 📈 Statistics
 
