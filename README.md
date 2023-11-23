@@ -11,7 +11,7 @@
 ## 🚀 Interests 
 
 **Computer Vision**  
-**Lightweight Remote Sensing Image Super-Resolution**
+**Remote Sensing Image Super-Resolution**
 
 ## 💻 Language
 
