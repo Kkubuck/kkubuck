@@ -81,6 +81,7 @@
 | JCCI | Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification |  April. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/1JzvW7VPcfXuq45uLCjjv14xxmpUsrAOH/view?usp=drive_link) |
 | KDFS | Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model | June. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/11cDgwPxYs3VyVv3x10f_5o1HONMkUANL/view?usp=drive_link) |
 | KDFS | Effective Data Augmentaions for Fingerprint Recognition | June. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/1cI0uym_U9Kb5v6HXeY1d4crO-kXTsY4S/view?usp=drive_link) |
+| KDFS | Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform | December. 2023 | H.W. Seo, J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=drive_link) |
 
 ## 📚 Journal(KCI)
 
