@@ -43,7 +43,6 @@
 | Dec. 2022 ~ Jan. 2023 | Seminar | Seminar about competition | LivDet2023: fingerprint liveness detection <br> [Challenge 1](https://livdet.diee.unica.it/index.php/home/algorithm-specifications) |
 | February 2023 | Personal Study | AI Study | Coursera: Deep Learning, Machine Learning |
 | May. 2023 ~ July. 2023 | Collaborative Research | Medical AI | A Deep Learning Study for the X-ray Diagnosis of Newborn's dyspnea syndrome(Chungnam National University Hospital (CNUH)) |
-| July. 2023 ~ August. 2023 | Competition | Segmentation | SW-centered university joint AI competition 2023 |
 
 ## 🏫 Teaching Experience
 
@@ -56,12 +55,14 @@
 
 | Prize | Platform | Name | Type | Team | Link |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 특별상 | 나눔과 기술 | 2022 창의설계 온라인 경진대회 | Section E | AIM Lab. | [link](https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png) |
-| 학회장상 | KDFS | 2022 한국디지털포렌식학회 동계학술대회 | OCR | AIM Lab. | [link](https://kdfs.jams.or.kr/co/main/jmMain.kci) |
-| SW중심대학협의회장상 | SWuniv | SW중심대학 공동 AI 경진대회 2022 | OCR | AIM | [link](https://dacon.io/competitions/official/235970/leaderboard) |
+| 특별상 | 나눔과 기술 | 2022 창의설계 온라인 경진대회 | competition | AIM Lab. | [link](https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png) |
+| 학회장상 | KDFS | 2022 한국디지털포렌식학회 동계학술대회 | paper | AIM Lab. | [link](https://kdfs.jams.or.kr/co/main/jmMain.kci) |
+| SW중심대학협의회장상 | SWuniv | SW중심대학 공동 AI 경진대회 2022 |  competition | AIM | [link](https://dacon.io/competitions/official/235970/leaderboard) |
 | Award | 한밭대학교 컴퓨터공학과 | 2022 컴퓨터공학과 포트폴리오경진대회 | Portfolio | Personal | [link](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do ) |
-| 해양경찰청장상 | KDFS | 2023 한국디지털포렌식학회 하계학술대회 | ML | AIM Lab. | [link](https://drive.google.com/file/d/1_pBVNSJTOPrg8lfhbsKrgbad0Rn8lz-9/view?usp=sharing) |
-| 특별상(딥노이드) | SWuniv | SW중심대학 공동 AI 경진대회 2023 | Segmentation | AIMLP | [link](https://dacon.io/competitions/official/236092/leaderboard)|
+| 해양경찰청장상 | KDFS | 2023 한국디지털포렌식학회 하계학술대회 | paper | AIM Lab. | [link](https://drive.google.com/file/d/1_pBVNSJTOPrg8lfhbsKrgbad0Rn8lz-9/view?usp=sharing) |
+| 특별상(딥노이드) | SWuniv | SW중심대학 공동 AI 경진대회 2023 |  competition | AIMLP | [link](https://dacon.io/competitions/official/236092/leaderboard)|
+| 학회장상 | KDFS | 2023 한국디지털포렌식학회 동계학술대회 | paper | AIM Lab. | [link](https://kdfs.jams.or.kr/co/main/jmMain.kci) |
+| Award | 한밭대학교 컴퓨터공학과 | 2023 컴퓨터공학과 포트폴리오경진대회 | Portfolio | Personal | [link](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do ) |
 
 ## ⚔️ Competitions
 
@@ -69,7 +70,6 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1/192 (top 0.52%) | DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | Classification | AIM Lab. | [private](https://dacon.io/competitions/official/235902/leaderboard) |
 | 8/77 (top 10.3%) | DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | AIM Lab. | [private](https://dacon.io/competitions/official/235970/leaderboard) |
-| 185/712 (top 25.9%) | DACON | 제주도 도로 교통량 예측 AI 경진대회 | Regression | AIM Lab. | [private](https://dacon.io/competitions/official/235985/leaderboard) |
 | 5/542 (top 0.9%) | AI CONNECT | Fake or Real: AI 생성 이미지 판별 경진대회 | Classification | AIM | [Final](https://aiconnect.kr/competition/detail/227/task/295/leaderboard) |
 | 17/227 (top 7.4%) | DACON | SW중심대학 공동 AI 경진대회 2023 | Segmentation | AIMLP | [AWARDS](https://dacon.io/competitions/official/236092/leaderboard) |
 
@@ -78,9 +78,10 @@
 | Company | Title | Date | Authors | Link |
 |:---:|:---:|:---:|:---:|:---:|
 | KDFS | Development of Optical Character Recognition Model for Document Leak Investigation | December. 2022 | E.J. Jang, D.S. Kim, S.Y. Oh, J.S. Lee | [link](https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link) |
-| JCCI | Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification |  April. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/1JzvW7VPcfXuq45uLCjjv14xxmpUsrAOH/view?usp=drive_link) |
-| KDFS | Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model | June. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/11cDgwPxYs3VyVv3x10f_5o1HONMkUANL/view?usp=drive_link) |
-| KDFS | Effective Data Augmentaions for Fingerprint Recognition | June. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/1cI0uym_U9Kb5v6HXeY1d4crO-kXTsY4S/view?usp=drive_link) |
+| JCCI | Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification |  April. 2023 | S.Y. Oh, J.S. Lee, D.S. Kim | [link](https://drive.google.com/file/d/1JzvW7VPcfXuq45uLCjjv14xxmpUsrAOH/view?usp=drive_link) |
+| KDFS | Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model | June. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/11cDgwPxYs3VyVv3x10f_5o1HONMkUANL/view?usp=drive_link)|
+| KDFS | Effective Data Augmentaions for Fingerprint Recognition | June. 2023 | D.S. Kim, J.S. Lee, S.Y. Oh | [link](https://drive.google.com/file/d/1cI0uym_U9Kb5v6HXeY1d4crO-kXTsY4S/view?usp=drive_link) |
+| KDFS | Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform | December. 2023 | H.Y. Seo, J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=sharing) |
 
 ## 📚 Journal(KCI)
 
