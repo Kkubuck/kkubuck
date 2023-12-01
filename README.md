@@ -40,7 +40,6 @@
 |:---:|:---:|:---:|:---:|
 | May 2022 | Join Lab. | Undergraduate Researcher | Join "Artificial Intelligence & Media Laboratory (AIM) Lab." Research Topic : Computer Vision, Hanbat Univ. <br> [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home?authuser=0) |
 | July 2022 ~ Sep. 2022 | Seminar | Seminar about AI | Study "혼자 공부하는 머신러닝 + 딥러닝" |
-| Dec. 2022 ~ Jan. 2023 | Seminar | Seminar about competition | LivDet2023: fingerprint liveness detection <br> [Challenge 1](https://livdet.diee.unica.it/index.php/home/algorithm-specifications) |
 | February 2023 | Personal Study | AI Study | Coursera: Deep Learning, Machine Learning |
 | May. 2023 ~ July. 2023 | Collaborative Research | Medical AI | A Deep Learning Study for the X-ray Diagnosis of Newborn's dyspnea syndrome(Chungnam National University Hospital (CNUH)) |
 
