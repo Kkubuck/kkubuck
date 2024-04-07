@@ -11,7 +11,7 @@
 ## 🚀 Interests 
 
 **Computer Vision**  
-**Remote Sensing Image Super-Resolution**
+**Remote Sensing Image**
 
 ## 💻 Language
 
@@ -62,15 +62,17 @@
 | 특별상(딥노이드) | SWuniv | SW중심대학 공동 AI 경진대회 2023 |  competition | AIMLP | [link](https://dacon.io/competitions/official/236092/leaderboard)|
 | 학회장상 | KDFS | 2023 한국디지털포렌식학회 동계학술대회 | paper | AIM Lab. | [link](https://kdfs.jams.or.kr/co/main/jmMain.kci) |
 | Award | 한밭대학교 컴퓨터공학과 | 2023 컴퓨터공학과 포트폴리오경진대회 | Portfolio | Personal | [link](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do ) |
+| 대상 | 연구개발특구진흥재단 | 제6회 2024 연구개발특구 AI SPARK 챌린지 | competition | AIM | [link](https://aifactory.space/task/2723/leaderboard) |
 
 ## ⚔️ Competitions
 
 | Rank | Platform | Competition | Type | Team | Leaderboard |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1/192 (top 0.52%) | DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | Classification | AIM Lab. | [private](https://dacon.io/competitions/official/235902/leaderboard) |
-| 8/77 (top 10.3%) | DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | AIM Lab. | [private](https://dacon.io/competitions/official/235970/leaderboard) |
-| 5/542 (top 0.9%) | AI CONNECT | Fake or Real: AI 생성 이미지 판별 경진대회 | Classification | AIM | [Final](https://aiconnect.kr/competition/detail/227/task/295/leaderboard) |
-| 17/227 (top 7.4%) | DACON | SW중심대학 공동 AI 경진대회 2023 | Segmentation | AIMLP | [AWARDS](https://dacon.io/competitions/official/236092/leaderboard) |
+| 1/192 (top 0.52%) | DACON | SW중심대학 공동 AI 경진대회 ❮예선❯ | Classification | AIM Lab. | [leaderboard](https://dacon.io/competitions/official/235902/leaderboard) |
+| 8/77 (top 10.3%) | DACON | SW중심대학 공동 AI 경진대회 ❮본선❯ | OCR | AIM Lab. | [leaderboard](https://dacon.io/competitions/official/235970/leaderboard) |
+| 5/542 (top 0.9%) | AI CONNECT | Fake or Real: AI 생성 이미지 판별 경진대회 | Classification | AIM | [leaderboard](https://aiconnect.kr/competition/detail/227/task/295/leaderboard) |
+| 17/227 (top 7.4%) | DACON | SW중심대학 공동 AI 경진대회 2023 | Segmentation | AIMLP | [leaderboard](https://dacon.io/competitions/official/236092/leaderboard) |
+| 1/141 (top 0.7%) | aifactory | 제6회 2024 연구개발특구 AI SPARK 챌린지 | Segmentation | AIM | [leaderboard](https://aifactory.space/task/2723/leaderboard) |
 
 ## 📚 Conference
 
