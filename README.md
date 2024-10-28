@@ -2,18 +2,18 @@
 
 <div align="center">
 
-## 👤 Profile 
+## Profile 
 
 **Nationality:** Republic of Korea  
 **Birth:** 2000  
 **Major:** Computer Engineering  
  
-## 🚀 Interests 
+## Interests 
 
 **Computer Vision**  
 **Remote Sensing Image**
 
-## 💻 Language
+## Language
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
@@ -22,35 +22,41 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 🎖️ Certifications 
+## Certifications 
 
 | Platform | Date | Course | Title | Certificate |
 |:---:|:---:|:---:|:---:|:---:|
-| LivDet2023 | January 2023 | Fingerprint Liveness Detection Competition | Challenge 1 | [link](https://drive.google.com/file/d/1XUErsGTVUVRhJNu2hnZS4oiAyvpXUYK1/view?usp=sharing) |
-| Coursera | January 2023 | Deep Learning Specialization | Neural Networks and Deep Learning | [link](https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK) |
-| Coursera | February 2023 | Deep Learning Specialization | Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization | [link](https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN) |
-| Coursera | February 2023 | Deep Learning Specialization | Structuring Machine Learning Projects | [link](https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ) |
-| Coursera | February 2023 | Deep Learning Specialization | Convolutional Neural Networks | [link](https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL) |
-| Coursera | February 2023 | Deep Learning Specialization | Sequence Models | [link](https://www.coursera.org/account/accomplishments/certificate/PNBUVCG5J8D9) |
+| LivDet2023 | January. 2023 | Fingerprint Liveness Detection Competition | Challenge 1 | [link](https://drive.google.com/file/d/1XUErsGTVUVRhJNu2hnZS4oiAyvpXUYK1/view?usp=sharing) |
+| Coursera | January. 2023 | Deep Learning Specialization | Neural Networks and Deep Learning | [link](https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK) |
+| Coursera | February. 2023 | Deep Learning Specialization | Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization | [link](https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN) |
+| Coursera | February. 2023 | Deep Learning Specialization | Structuring Machine Learning Projects | [link](https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ) |
+| Coursera | February. 2023 | Deep Learning Specialization | Convolutional Neural Networks | [link](https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL) |
+| Coursera | February. 2023 | Deep Learning Specialization | Sequence Models | [link](https://www.coursera.org/account/accomplishments/certificate/PNBUVCG5J8D9) |
 
-## 🎯 Internship 
+## Internship 
 
 **AIM Lab.**
 | Date | Type | Contents | Details |
 |:---:|:---:|:---:|:---:|
-| May 2022 | Join Lab. | Undergraduate Researcher | Join "Artificial Intelligence & Media Laboratory (AIM) Lab." Research Topic : Computer Vision, Hanbat Univ. <br> [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home?authuser=0) |
-| July 2022 ~ Sep. 2022 | Seminar | Seminar about AI | Study "혼자 공부하는 머신러닝 + 딥러닝" |
-| February 2023 | Personal Study | AI Study | Coursera: Deep Learning, Machine Learning |
+| May. 2022 | Join Lab. | Undergraduate Researcher | Join "Artificial Intelligence & Media Laboratory (AIM) Lab." Research Topic : Computer Vision, Hanbat Univ. <br> [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home?authuser=0) |
+| July. 2022 ~ Sep. 2022 | Seminar | Seminar about AI | Study "혼자 공부하는 머신러닝 + 딥러닝" |
+| February. 2023 | Personal Study | AI Study | Coursera: Deep Learning, Machine Learning |
 | May. 2023 ~ July. 2023 | Collaborative Research | Medical AI | A Deep Learning Study for the X-ray Diagnosis of Newborn's dyspnea syndrome(Chungnam National University Hospital (CNUH)) |
 
-## 🏫 Teaching Experience
+**Si Analytics**
+| Date | Type | Contents | Details |
+|:---:|:---:|:---:|:---:|
+| July. 2024 ~ Sep. 2024 | Researcher | Computer vision | UAV image Segmentation, Classification |
+
+## Teaching Experience
 
 | Date | Class | Details | Professor |
 |:---:|:---:|:---:|:---:|
 | January. 2023 | HANBAT AI INTENSIVE COURSE | Undergraduate class | H.E. Jang |
 | March. 2023 ~ June. 2023 | Data structure | C.E. 2nd grade class | H.E. Jang |
+| March. 2024 ~ June. 2024 | Artificial Intelligence and Applications | C.E. 3nd grade class | H.E. Jang |
 
-## 🏆 Awards and Honors
+## Awards and Honors
 
 | Prize | Platform | Name | Type | Team | Link |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -64,7 +70,7 @@
 | Award | 한밭대학교 컴퓨터공학과 | 2023 컴퓨터공학과 포트폴리오경진대회 | Portfolio | Personal | [link](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do ) |
 | 대상 | 연구개발특구진흥재단 | 제6회 2024 연구개발특구 AI SPARK 챌린지 | competition | AIM | [link](https://aifactory.space/task/2723/leaderboard) |
 
-## ⚔️ Competitions
+## Competitions
 
 | Rank | Platform | Competition | Type | Team | Leaderboard |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -74,7 +80,7 @@
 | 17/227 (top 7.4%) | DACON | SW중심대학 공동 AI 경진대회 2023 | Segmentation | AIMLP | [leaderboard](https://dacon.io/competitions/official/236092/leaderboard) |
 | 1/141 (top 0.7%) | aifactory | 제6회 2024 연구개발특구 AI SPARK 챌린지 | Segmentation | AIM | [leaderboard](https://aifactory.space/task/2723/leaderboard) |
 
-## 📚 Conference
+## Conference
 
 | Company | Title | Date | Authors | Link |
 |:---:|:---:|:---:|:---:|:---:|
@@ -83,14 +89,18 @@
 | KDFS | Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model | June. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/11cDgwPxYs3VyVv3x10f_5o1HONMkUANL/view?usp=drive_link)|
 | KDFS | Effective Data Augmentaions for Fingerprint Recognition | June. 2023 | D.S. Kim, J.S. Lee, S.Y. Oh | [link](https://drive.google.com/file/d/1cI0uym_U9Kb5v6HXeY1d4crO-kXTsY4S/view?usp=drive_link) |
 | KDFS | Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform | December. 2023 | H.Y. Seo, J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=sharing) |
+| KCC | Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture | June. 2024 | J.S. Lee, H.Y. Seo | [link](https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=sharing) |
+| KCC | Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation | June. 2024 | H.Y. Seo, J.S. Lee | [link](https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=sharing) |
 
-## 📚 Journal(KCI)
+## Journal
 
 | Company | Title | Date | Authors | Link |
 |:---:|:---:|:---:|:---:|:---:|
-| Journal of Digital Forensics | Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters | October. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/1Bphb2oEKOOA7W3xFdr3JubWB54VeazLv/view?usp=drive_link) |
+| Journal of Digital Forensics (KCI) | Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters | October. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/1Bphb2oEKOOA7W3xFdr3JubWB54VeazLv/view?usp=drive_link) |
+| Journal of Digital Forensics (KCI) | Effective Data Augmentations for Cross-Domain Fingerprint Recognition | April. 2024 | D.S. Kim, J.S. Lee, S.Y. Oh | [link](https://drive.google.com/file/d/1Bphb2oEKOOA7W3xFdr3JubWB54VeazLv/view?usp=drive_link) |
+| Korean Journal of Remote Sensing (SCOPUS) | Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms | October. 2024 | J.S. Lee, D.Y. Jeong | [link](https://drive.google.com/file/d/1Bphb2oEKOOA7W3xFdr3JubWB54VeazLv/view?usp=drive_link) |
 
-## 📬 Contact 
+## Contact 
 
 <a href="mailto:nacl3084@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/jisanglee/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
