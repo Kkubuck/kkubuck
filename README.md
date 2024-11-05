@@ -11,12 +11,11 @@
 ## Interests 
 
 **Computer Vision**  
-**Remote Sensing Image**
+**Remote Sensing**
 
 ## Language
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -39,8 +38,6 @@
 | Date | Type | Contents | Details |
 |:---:|:---:|:---:|:---:|
 | May. 2022 | Join Lab. | Undergraduate Researcher | Join "Artificial Intelligence & Media Laboratory (AIM) Lab." Research Topic : Computer Vision, Hanbat Univ. <br> [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home?authuser=0) |
-| July. 2022 ~ Sep. 2022 | Seminar | Seminar about AI | Study "혼자 공부하는 머신러닝 + 딥러닝" |
-| February. 2023 | Personal Study | AI Study | Coursera: Deep Learning, Machine Learning |
 | May. 2023 ~ July. 2023 | Collaborative Research | Medical AI | A Deep Learning Study for the X-ray Diagnosis of Newborn's dyspnea syndrome(Chungnam National University Hospital (CNUH)) |
 
 **Si Analytics**
