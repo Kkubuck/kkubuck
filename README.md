@@ -96,9 +96,9 @@
 
 | Company | Title | Date | Authors | Link |
 |:---:|:---:|:---:|:---:|:---:|
-| Journal of Digital Forensics (KCI) | Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters | October. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/1Bphb2oEKOOA7W3xFdr3JubWB54VeazLv/view?usp=drive_link) |
-| Journal of Digital Forensics (KCI) | Effective Data Augmentations for Cross-Domain Fingerprint Recognition | April. 2024 | D.S. Kim, J.S. Lee, S.Y. Oh | [link](https://drive.google.com/file/d/1Bphb2oEKOOA7W3xFdr3JubWB54VeazLv/view?usp=drive_link) |
-| Korean Journal of Remote Sensing (SCOPUS) | Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms | October. 2024 | J.S. Lee, D.Y. Jeong | [link](https://drive.google.com/file/d/1Bphb2oEKOOA7W3xFdr3JubWB54VeazLv/view?usp=drive_link) |
+| Journal of Digital Forensics (KCI) | Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters | October. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11538137&googleIPSandBox=false&mark=0&minRead=15&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true) |
+| Journal of Digital Forensics (KCI) | Effective Data Augmentations for Cross-Domain Fingerprint Recognition | April. 2024 | D.S. Kim, J.S. Lee, S.Y. Oh | [link](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11750871&googleIPSandBox=false&mark=0&minRead=10&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true) |
+| Korean Journal of Remote Sensing (SCOPUS) | Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms | October. 2024 | J.S. Lee, D.Y. Jeong | [link](https://www.kjrs.org/journal/view.html?pn=current_issue&uid=1005&vmd=Full) |
 
 ## Contact 
 
