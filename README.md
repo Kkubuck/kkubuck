@@ -11,7 +11,7 @@
 ## Interests 
 
 **Computer Vision**  
-**Remote Sensing**
+**Remote Sensing** 
 **Zero shot**
 
 ## Language
@@ -87,8 +87,8 @@
 | KDFS | Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model | June. 2023 | J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/11cDgwPxYs3VyVv3x10f_5o1HONMkUANL/view?usp=drive_link)|
 | KDFS | Effective Data Augmentaions for Fingerprint Recognition | June. 2023 | D.S. Kim, J.S. Lee, S.Y. Oh | [link](https://drive.google.com/file/d/1cI0uym_U9Kb5v6HXeY1d4crO-kXTsY4S/view?usp=drive_link) |
 | KDFS | Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform | December. 2023 | H.Y. Seo, J.S. Lee, D.S. Kim, S.Y. Oh | [link](https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=sharing) |
-| KCC | Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture | June. 2024 | J.S. Lee, H.Y. Seo | [link](https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=sharing) |
-| KCC | Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation | June. 2024 | H.Y. Seo, J.S. Lee | [link](https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=sharing) |
+| KCC | Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture | June. 2024 | J.S. Lee, H.Y. Seo | [link](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true) |
+| KCC | Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation | June. 2024 | H.Y. Seo, J.S. Lee | [link](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862004&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true) |
 
 ## Journal
 
