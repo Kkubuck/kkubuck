@@ -11,8 +11,14 @@
 ## Interests 
 
 **Computer Vision**  
-**Remote Sensing** 
-**Zero shot**
+**Remote Sensing**  
+**Zero Shot**
+
+## Download Resume
+
+<a href="https://drive.google.com/file/d/174b3NbBt-NH287tvslkoJRv9FS4V3jx2/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-Google%20Drive-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume">
+</a>
 
 ## Language
 
