@@ -12,6 +12,7 @@
 
 **Computer Vision**  
 **Remote Sensing**
+**Zero shot**
 
 ## Language
 
