@@ -74,6 +74,7 @@
 | Award | 한밭대학교 컴퓨터공학과 | 2023 컴퓨터공학과 포트폴리오경진대회 | Portfolio | Personal | [link](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do ) |
 | 대상 | 연구개발특구진흥재단 | 제6회 2024 연구개발특구 AI SPARK 챌린지 | competition | AIM | [link](https://aifactory.space/task/2723/leaderboard) |
 | 금상 | 한밭대학교 | 정보기술대학 작품전시회 | capstone design | SkyPixel | [link](https://drive.google.com/file/d/17uTNGGjhYjPSk77HHKluDtimPxuU-GAq/view?usp=sharing) |
+| Award | 한밭대학교 컴퓨터공학과 | 2024 컴퓨터공학과 포트폴리오경진대회 | Portfolio | Personal | [link](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do ) |
 
 ## Competitions
 
