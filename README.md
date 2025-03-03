@@ -47,7 +47,7 @@
 | May. 2022 | Join Lab. | Undergraduate Researcher | Join "Artificial Intelligence & Media Laboratory (AIM) Lab." Research Topic : Computer Vision, Hanbat Univ. <br> [AIM Lab.](https://sites.google.com/view/aim-lab-hbnu/home?authuser=0) |
 | May. 2023 ~ July. 2023 | Collaborative Research | Medical AI | A Deep Learning Study for the X-ray Diagnosis of Newborn's dyspnea syndrome(Chungnam National University Hospital (CNUH)) |
 | Feb. 2025 ~  | Collaborative Research | Military AI | Zero-Shot Detection of Military Vehicles in Joint Command Projects (DataMaker) |
-| March. 2025 ~  | Join Lab. | Master's Researcher | Joined "Artificial Intelligence & Media Laboratory (AIM) Lab."; Research Topic: Computer Vision, Hanbat National University [AIM Lab.] |
+| March. 2025 ~  | Join Lab. | Master's Researcher | Joined "Artificial Intelligence & Media Laboratory (AIM) Lab." |
 
 **Si Analytics**
 | Date | Type | Contents | Details |
