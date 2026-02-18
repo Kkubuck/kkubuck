@@ -42,7 +42,7 @@
 | Year | Title | Authors | Journal | Link |
 | :---: | :--- | :--- | :--- | :---: |
 | *Review* | **HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection** | **J.S. Lee**, H.W. Seo, E.K. Kim*, H.E. Jang | Pattern Recognition (SCIE) | - |
-| 2025 | Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images | **J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang | Journal of IKEEE (Vol.29, No.2) | [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967) |
+| 2025 | Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images | **J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang | Journal of IKEEE | [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967) |
 | 2025 | Enhanced Copy-Paste Data Augmentation Using SAM for Precise Ship Detection | J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang | Journal of IKEEE | [View](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003289626) |
 | 2024 | Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms | **J.S. Lee**, D.Y. Jeong | Korean Journal of Remote Sensing (SCOPUS) | [View](https://www.kjrs.org/journal/view.html?pn=current_issue&uid=1005&vmd=Full) |
 | 2024 | Effective Data Augmentations for Cross-Domain Fingerprint Recognition | D.S. Kim, **J.S. Lee**, S.Y. Oh | Journal of Digital Forensics (KCI) | [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11750871) |
