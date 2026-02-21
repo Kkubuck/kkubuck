@@ -100,7 +100,7 @@
 | 2024 | **Gold Prize** - Capstone Design Exhibition (SkyPixel) | Hanbat National Univ. | [View](https://drive.google.com/file/d/17uTNGGjhYjPSk77HHKluDtimPxuU-GAq/view?usp=sharing) |
 | 2024 | **Prize** - Computer Engineering Portfolio Competition | Hanbat National Univ. | [View](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do) |
 | 2023 | **Special Prize** - SW Univ. Joint AI Competition | SW Univ. Council | [View](https://dacon.io/competitions/official/236092/leaderboard) |
-| 2023 | **Best Paper** (Commissioner of Korea Coast Guard Award) | KDFS (Summer) | [View](https://drive.google.com/file/d/1_pBVNSJTOPrg8lfhbsKrgbad0Rn8lz-9/view?usp=sharing) |
+| 2023 | **Best Paper** (Commissioner General of the Korea Coast Guard Award) | KDFS (Summer) | [View](https://drive.google.com/file/d/1_pBVNSJTOPrg8lfhbsKrgbad0Rn8lz-9/view?usp=sharing) |
 | 2023 | **Best Paper** (President of Society Award) | KDFS (Winter) | [View](https://kdfs.jams.or.kr/co/main/jmMain.kci) |
 | 2023 | **Prize** - Computer Engineering Portfolio Competition | Hanbat National Univ. | [View](https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do) |
 | 2022 | **Best Paper** (President of Society Award) | KDFS (Winter) | [View](https://kdfs.jams.or.kr/co/main/jmMain.kci) |
