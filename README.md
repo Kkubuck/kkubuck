@@ -44,6 +44,7 @@
 | *Review* | HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection | **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang* | Pattern Recognition (SCIE, Q1) | - |
 | 2025 | Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images | **J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang* | Journal of IKEEE (KCI) | [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967) |
 | 2025 | Enhanced Copy-Paste Data Augmentation Using SAM for Precise Ship Detection | J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang* | Journal of IKEEE (KCI) | [View](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003289626) |
+| 2025 | Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform | **H.W. Seo**, D.S. Kim, S.Y. Oh, J.S. Lee, H.E. Jang* | Journal of KIISE (JOK) | [View](https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=sharing) |
 | 2024 | Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms | **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong* | Korean Journal of Remote Sensing (SCOPUS) | [View](https://www.kjrs.org/journal/view.html?pn=current_issue&uid=1005&vmd=Full) |
 | 2024 | Effective Data Augmentations for Cross-Domain Fingerprint Recognition | D.S. Kim, **J.S. Lee**, S.Y. Oh, H.E. Jang* | Journal of Digital Forensics (KCI) | [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11750871) |
 | 2023 | Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters | **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang* | Journal of Digital Forensics (KCI) | [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11538137) |
@@ -54,9 +55,6 @@
 | :---: | :--- | :--- | :---: |
 | Jun. 2024 | Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation | KCC 2024 | [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862004) |
 | Jun. 2024 | Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture | KCC 2024 | [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967) |
-| Dec. 2023 | Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform | KDFS 2023 | [View](https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=sharing) |
-| Jun. 2023 | Effective Data Augmentations for Fingerprint Recognition | KDFS 2023 | [View](https://drive.google.com/file/d/1cI0uym_U9Kb5v6HXeY1d4crO-kXTsY4S/view?usp=drive_link) |
-| Jun. 2023 | Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model | KDFS 2023 | [View](https://drive.google.com/file/d/11cDgwPxYs3VyVv3x10f_5o1HONMkUANL/view?usp=drive_link) |
 | Apr. 2023 | Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification | JCCI 2023 | [View](https://drive.google.com/file/d/1JzvW7VPcfXuq45uLCjjv14xxmpUsrAOH/view?usp=drive_link) |
 | Dec. 2022 | Development of Optical Character Recognition Model for Document Leak Investigation | KDFS 2022 | [View](https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link) |
 
