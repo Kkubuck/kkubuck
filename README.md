@@ -41,6 +41,7 @@
 
 | Year | Title | Authors | Journal | Link |
 | :---: | :--- | :--- | :--- | :---: |
+| 2026(under review) | SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection | **J.S. Lee**, C.E. Park, H.E. Jang* | IEEE Transactions on Multimedia (SCIE, Q1) | - |
 | 2026(under review) | ZAR-Net: Zoom-Aware Adapter Refinement for Multispectral Camouflaged Object Detection | **J.S. Lee**, H.E. Jang* | IEEE Transactions on Multimedia (SCIE, Q1) | - |
 | 2026(under review) | HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection | **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang* | Pattern Recognition (SCIE, Q1) | - |
 | 2025 | Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images | **J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang* | Journal of IKEEE (KCI) | [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967) |
