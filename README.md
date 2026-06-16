@@ -6,7 +6,7 @@ Master's Researcher · Artificial Intelligence & Media Laboratory, Hanbat Nation
 
 Computer Vision · Remote Sensing · Camouflaged Object Detection · Foundation-Model-Driven Visual Understanding
 
-Interested in Object Detection, Segmentation, Synthetic Aperture Radar image analysis, UAV imagery, and using Vision Foundation Models (VFMs) and Vision-Language Models (VLMs) for robust visual perception.
+Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synthetic Aperture Radar image analysis, UAV imagery, and using Vision Foundation Models (VFMs) and Vision-Language Models (VLMs).
 
 <a href="mailto:nacl3084@gmail.com"><img src="https://img.shields.io/badge/Email-nacl3084%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://github.com/Kkubuck"><img src="https://img.shields.io/badge/GitHub-Kkubuck-111111?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://drive.google.com/file/d/174b3NbBt-NH287tvslkoJRv9FS4V3jx2/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download_PDF-111111?style=flat-square&logo=googledrive&logoColor=white"/></a>
 
@@ -27,21 +27,24 @@ Interested in Object Detection, Segmentation, Synthetic Aperture Radar image ana
 
 ## Research Interests
 
-| Area                     | Focus                                                                                                                                             |
-| :----------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Computer Vision**      | Object Detection, Segmentation, Camouflaged Object Detection (COD)                                                                                |
-| **Remote Sensing**       | Synthetic Aperture Radar image analysis, UAV imagery                                                                                              |
-| **Foundation Models**    | Vision Foundation Models (VFMs), Vision-Language Models (VLMs)                                                                                    |
+| Direction                                | Research Focus                                                                                                       |
+| :--------------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| **Visual Recognition and Perception**    | Object Detection, Segmentation, Camouflaged Object Detection (COD)                                                   |
+| **Aerial and Remote Sensing Vision**     | Synthetic Aperture Radar image analysis, UAV imagery, drone-captured visual data                                     |
+| **Foundation-Model-Driven Vision**       | using Vision Foundation Models (VFMs) and Vision-Language Models (VLMs) for robust visual understanding              |
+| **Open-Vocabulary Visual Understanding** | Exploring foundation-model-driven approaches for remote sensing, camouflaged object detection, and visual perception |
 
 ---
 
 ## Tech Stack
 
-| Domain            | Stack                                                                                                                                                                                                                                                                                                                            |
-| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**     | ![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)                                                                                                                                                                                                                            |
-| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square\&logo=pytorch\&logoColor=white)                                                                                                                                                                                                                         |
-| **Data Science**  | ![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square\&logo=numpy\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square\&logo=pandas\&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-111111?style=flat-square\&logo=scikit-learn\&logoColor=white) |
+| Domain               | Stack                                                                                                                                                                                                                                                                                                                            |
+| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)                                                                                                                                                                                                                            |
+| **Deep Learning**    | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)                                                                                                                                                                                                                         |
+| **Data Science**     | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white) |
+| **Agentic Workflow** | Multi-domain AI-agent usage for research coding, experiment design, paper editing, repository automation, technical writing, and productivity workflows · cumulative token usage: approx. **12,400M tokens** as of **Jun. 17, 2026** |
+                                                                                                                                                                                             |
 
 ---
 
@@ -51,9 +54,9 @@ Interested in Object Detection, Segmentation, Synthetic Aperture Radar image ana
 
 |     Year / Status     | Title                                                                                                                | Authors                                                                      | Journal                                    |                                                            Link                                                           |
 | :-------------------: | :------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- | :----------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------: |
-|  2026 · Under Review  | SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection                               | **J.S. Lee**, C.E. Park, H.E. Jang*                                          | IEEE Transactions on Multimedia (SCIE, Q1) |                                                             —                                                             |
-|  2026 · Under Review  | ZAR-Net: Zoom-Aware Adapter Refinement for Multispectral Camouflaged Object Detection                                | **J.S. Lee**, H.E. Jang*                                                     | IEEE Transactions on Multimedia (SCIE, Q1) |                                                             —                                                             |
-| 2026 · Minor Revision | HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection                      | **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang*                                 | Pattern Recognition (SCIE, Q1)             |                                                             —                                                             |
+|  2026 · Under Review  | SARR-Net: Sensor-Aware Relation Routing...                                                                           | **J.S. Lee**, C.E. Park, H.E. Jang*                                          | IEEE Transactions on Multimedia (SCIE, Q1) |                                                             —                                                             |
+|  2026 · Under Review  | ZAR-Net: Zoom-Aware Adapter Refinement...                                                                            | **J.S. Lee**, H.E. Jang*                                                     | IEEE Transactions on Multimedia (SCIE, Q1) |                                                             —                                                             |
+| 2026 · Minor Revision | HFGF-DINOv3: High-Frequency Guided Fusion...                                                                         | **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang*                                 | Pattern Recognition (SCIE, Q1)             |                                                             —                                                             |
 |          2025         | Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images | **J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang* | Journal of IKEEE (KCI)                     |                             [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967)                            |
 |          2025         | Enhanced Copy-Paste Data Augmentation Using SAM for Precise Ship Detection                                           | J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang*                                | Journal of IKEEE (KCI)                     | [View](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003289626) |
 |          2025         | Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform                   | **H.W. Seo**, D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang*                    | Journal of KIISE (JOK)                     |                 [View](https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=sharing)                |
@@ -61,14 +64,15 @@ Interested in Object Detection, Segmentation, Synthetic Aperture Radar image ana
 |          2024         | Effective Data Augmentations for Cross-Domain Fingerprint Recognition                                                | D.S. Kim, **J.S. Lee**, S.Y. Oh, H.E. Jang*                                  | Journal of Digital Forensics (KCI)         |                             [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11750871)                            |
 |          2023         | Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters                      | **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang*                                  | Journal of Digital Forensics (KCI)         |                             [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11538137)                            |
 
-### Conference Proceedings
+### Conference Proceedings and Submissions
 
-|    Date   | Title                                                                                 | Conference |                                              Link                                             |
-| :-------: | :------------------------------------------------------------------------------------ | :--------- | :-------------------------------------------------------------------------------------------: |
-| Jun. 2024 | Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation      | KCC 2024   |               [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862004)              |
-| Jun. 2024 | Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture | KCC 2024   |               [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967)              |
-| Apr. 2023 | Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification   | JCCI 2023  | [View](https://drive.google.com/file/d/1JzvW7VPcfXuq45uLCjjv14xxmpUsrAOH/view?usp=drive_link) |
-| Dec. 2022 | Development of Optical Character Recognition Model for Document Leak Investigation    | KDFS 2022  | [View](https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link) |
+|    Date / Status    | Title                                                                                 | Conference |                                              Link                                             |
+| :-----------------: | :------------------------------------------------------------------------------------ | :--------- | :-------------------------------------------------------------------------------------------: |
+| 2026 · Under Review | Open-vocabulary camouflaged object segmentation...                                    | ECCV 2026  |                                               —                                               |
+|      Jun. 2024      | Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation      | KCC 2024   |               [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862004)              |
+|      Jun. 2024      | Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture | KCC 2024   |               [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967)              |
+|      Apr. 2023      | Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification   | JCCI 2023  | [View](https://drive.google.com/file/d/1JzvW7VPcfXuq45uLCjjv14xxmpUsrAOH/view?usp=drive_link) |
+|      Dec. 2022      | Development of Optical Character Recognition Model for Document Leak Investigation    | KDFS 2022  | [View](https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link) |
 
 ---
 
@@ -85,9 +89,9 @@ Interested in Object Detection, Segmentation, Synthetic Aperture Radar image ana
 
 ### SI Analytics
 
-|         Period        | Role            | Topic          | Details                                |
-| :-------------------: | :-------------- | :------------- | :------------------------------------- |
-| Jul. 2024 – Sep. 2024 | Research Intern | Remote Sensing | UAV image Segmentation, Classification |
+|         Period        | Role            | Topic                       | Details                                                                                                             |
+| :-------------------: | :-------------- | :-------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| Jul. 2024 – Sep. 2024 | Research Intern | Remote Sensing / UAV Vision | Improved a SAM-based parcel segmentation model using drone-captured UAV imagery for segmentation and classification |
 
 ---
 
