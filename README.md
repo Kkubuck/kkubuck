@@ -6,9 +6,9 @@ Master's Researcher · Artificial Intelligence & Media Laboratory, Hanbat Nation
 
 Computer Vision · Remote Sensing · Camouflaged Object Detection · Foundation-Model-Driven Visual Understanding
 
-Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synthetic Aperture Radar image analysis, UAV imagery, and using Vision Foundation Models (VFMs) and Vision-Language Models (VLMs).
+Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synthetic Aperture Radar image analysis, UAV imagery, and using Vision Foundation Models (VFMs) and Vision-Language Models (VLMs) for robust visual perception.
 
-<a href="mailto:nacl3084@gmail.com"><img src="https://img.shields.io/badge/Email-nacl3084%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://github.com/Kkubuck"><img src="https://img.shields.io/badge/GitHub-Kkubuck-111111?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://drive.google.com/file/d/174b3NbBt-NH287tvslkoJRv9FS4V3jx2/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download_PDF-111111?style=flat-square&logo=googledrive&logoColor=white"/></a>
+<a href="mailto:nacl3084@gmail.com"><img src="https://img.shields.io/badge/Email-nacl3084%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jisanglee/"><img src="https://img.shields.io/badge/LinkedIn-Jisang_Lee-111111?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://scholar.google.com/citations?hl=ko&user=54qWclUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Jisang_Lee-111111?style=flat-square&logo=googlescholar&logoColor=white"/></a> <a href="https://kkubuck.github.io/"><img src="https://img.shields.io/badge/Blog-kkubuck.github.io-111111?style=flat-square&logo=githubpages&logoColor=white"/></a> <a href="https://drive.google.com/file/d/174b3NbBt-NH287tvslkoJRv9FS4V3jx2/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download_PDF-111111?style=flat-square&logo=googledrive&logoColor=white"/></a>
 
 </div>
 
@@ -38,13 +38,12 @@ Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synt
 
 ## Tech Stack
 
-| Domain               | Stack                                                                                                                                                                                                                                                                                                                            |
-| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)                                                                                                                                                                                                                            |
-| **Deep Learning**    | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)                                                                                                                                                                                                                         |
-| **Data Science**     | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white) |
-| **Agentic Workflow** | Multi-domain AI-agent usage for research coding, experiment design, paper editing, repository automation, technical writing, and productivity workflows · cumulative token usage: approx. **12,400M tokens** as of **Jun. 17, 2026** |
-                                                                                                                                                                                             |
+| Domain                  | Stack                                                                                                                                                                                                                                                                                                                            |
+| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)                                                                                                                                                                                                                            |
+| **Deep Learning**       | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)                                                                                                                                                                                                                         |
+| **Data Science**        | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white) |
+| **Agentic AI Workflow** | Multi-domain AI-agent workflow for research coding, experiment design, paper editing, repository automation, technical writing, and productivity workflows · cumulative token usage: approx. **12,400M tokens** as of **Jun. 17, 2026**                                                                                          |
 
 ---
 
@@ -126,13 +125,13 @@ Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synt
 
 ## Competitions
 
-|           Rank          | Competition                            |  Platform  |      Type      |
-| :---------------------: | :------------------------------------- | :--------: | :------------: |
-|       **1 / 141**       | 제6회 2024 연구개발특구 AI SPARK 챌린지           |  AIFactory |  Segmentation  |
-|  **5 / 542 · Top 0.9%** | Fake or Real: AI 생성 이미지 판별 경진대회        | AI Connect | Classification |
-| **17 / 227 · Top 7.4%** | SW중심대학 공동 AI 경진대회 2023                 |    DACON   |  Segmentation  |
-|  **8 / 77 · Top 10.3%** | SW중심대학 공동 AI 경진대회 2022 (Finals)        |    DACON   |       OCR      |
-|       **1 / 192**       | SW중심대학 공동 AI 경진대회 2022 (Preliminaries) |    DACON   | Classification |
+|           Rank          | Competition                            |  Platform  | Task                                                    |
+| :---------------------: | :------------------------------------- | :--------: | :------------------------------------------------------ |
+|       **1 / 141**       | 제6회 2024 연구개발특구 AI SPARK 챌린지           |  AIFactory | Wildfire area segmentation                              |
+|  **5 / 542 · Top 0.9%** | Fake or Real: AI 생성 이미지 판별 경진대회        | AI Connect | Classification of images generated by generative models |
+| **17 / 227 · Top 7.4%** | SW중심대학 공동 AI 경진대회 2023                 |    DACON   | Building segmentation from satellite imagery            |
+|  **8 / 77 · Top 10.3%** | SW중심대학 공동 AI 경진대회 2022 (Finals)        |    DACON   | Optical Character Recognition (OCR)                     |
+|       **1 / 192**       | SW중심대학 공동 AI 경진대회 2022 (Preliminaries) |    DACON   | Psychological trait prediction on tabular data          |
 
 ---
 
@@ -151,7 +150,7 @@ Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synt
 
 <div align="center">
 
-<a href="mailto:nacl3084@gmail.com">Email</a> · <a href="https://github.com/Kkubuck">GitHub</a> · <a href="https://drive.google.com/file/d/174b3NbBt-NH287tvslkoJRv9FS4V3jx2/view?usp=drive_link">Resume</a>
+<a href="mailto:nacl3084@gmail.com">Email</a> · <a href="https://github.com/Kkubuck">GitHub</a> · <a href="https://www.linkedin.com/in/jisanglee/">LinkedIn</a> · <a href="https://scholar.google.com/citations?hl=ko&user=54qWclUAAAAJ">Google Scholar</a> · <a href="https://kkubuck.github.io/">Blog</a> · <a href="https://drive.google.com/file/d/174b3NbBt-NH287tvslkoJRv9FS4V3jx2/view?usp=drive_link">Resume</a>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kkubuck&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true"/>
 
