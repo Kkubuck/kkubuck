@@ -4,9 +4,9 @@
 
 Master's Researcher · Artificial Intelligence & Media Laboratory, Hanbat National University
 
-Computer Vision · Remote Sensing · Camouflaged Object Detection · Foundation-Model-Driven Visual Understanding
+Computer Vision · Remote Sensing · Camouflaged Object Detection · Foundation-Model
 
-Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synthetic Aperture Radar image analysis, UAV imagery, and using Vision Foundation Models (VFMs) and Vision-Language Models (VLMs) for robust visual perception.
+Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synthetic Aperture Radar image analysis, UAV imagery, and using Vision Foundation Models (VFMs) and Vision-Language Models (VLMs).
 
 <a href="mailto:nacl3084@gmail.com"><img src="https://img.shields.io/badge/Email-nacl3084%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jisanglee/"><img src="https://img.shields.io/badge/LinkedIn-Jisang_Lee-111111?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://scholar.google.com/citations?hl=ko&user=54qWclUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Jisang_Lee-111111?style=flat-square&logo=googlescholar&logoColor=white"/></a> <a href="https://kkubuck.github.io/"><img src="https://img.shields.io/badge/Blog-kkubuck.github.io-111111?style=flat-square&logo=githubpages&logoColor=white"/></a> <a href="https://drive.google.com/file/d/174b3NbBt-NH287tvslkoJRv9FS4V3jx2/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download_PDF-111111?style=flat-square&logo=googledrive&logoColor=white"/></a>
 
@@ -31,8 +31,7 @@ Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synt
 | :--------------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
 | **Visual Recognition and Perception**    | Object Detection, Segmentation, Camouflaged Object Detection (COD)                                                   |
 | **Aerial and Remote Sensing Vision**     | Synthetic Aperture Radar image analysis, UAV imagery, drone-captured visual data                                     |
-| **Foundation-Model-Driven Vision**       | using Vision Foundation Models (VFMs) and Vision-Language Models (VLMs) for robust visual understanding              |
-| **Open-Vocabulary Visual Understanding** | Exploring foundation-model-driven approaches for remote sensing, camouflaged object detection, and visual perception |
+| **Foundation-Model-Driven Vision**       | using Vision Foundation Models (VFMs) and Vision-Language Models (VLMs)          |
 
 ---
 
@@ -43,7 +42,7 @@ Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synt
 | **Languages**           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)                                                                                                                                                                                                                            |
 | **Deep Learning**       | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)                                                                                                                                                                                                                         |
 | **Data Science**        | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white) |
-| **Agentic AI Workflow** | Multi-domain AI-agent workflow for research coding, experiment design, paper editing, repository automation, technical writing, and productivity workflows · cumulative token usage: approx. **12,400M tokens** as of **Jun. 17, 2026**                                                                                          |
+| **Agentic AI Workflow** | Multi-domain AI-agent workflow for research coding, experiment design · cumulative token usage: approx. **12,400M tokens** as of **Jun. 17, 2026**                                                                                          |
 
 ---
 
@@ -67,7 +66,6 @@ Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synt
 
 |    Date / Status    | Title                                                                                 | Conference |                                              Link                                             |
 | :-----------------: | :------------------------------------------------------------------------------------ | :--------- | :-------------------------------------------------------------------------------------------: |
-| 2026 · Under Review | Open-vocabulary camouflaged object segmentation...                                    | ECCV 2026  |                                               —                                               |
 |      Jun. 2024      | Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation      | KCC 2024   |               [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862004)              |
 |      Jun. 2024      | Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture | KCC 2024   |               [View](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967)              |
 |      Apr. 2023      | Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification   | JCCI 2023  | [View](https://drive.google.com/file/d/1JzvW7VPcfXuq45uLCjjv14xxmpUsrAOH/view?usp=drive_link) |
