@@ -148,8 +148,4 @@ Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synt
 
 <div align="center">
 
-<a href="mailto:nacl3084@gmail.com">Email</a> · <a href="https://github.com/Kkubuck">GitHub</a> · <a href="https://www.linkedin.com/in/jisanglee/">LinkedIn</a> · <a href="https://scholar.google.com/citations?hl=ko&user=54qWclUAAAAJ">Google Scholar</a> · <a href="https://kkubuck.github.io/">Blog</a> · <a href="https://drive.google.com/file/d/174b3NbBt-NH287tvslkoJRv9FS4V3jx2/view?usp=drive_link">Resume</a>
-
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kkubuck&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true"/>
-
 </div>
