@@ -8,7 +8,7 @@ Computer Vision · Remote Sensing · Camouflaged Object Detection · Foundation-
 
 Interested in Object Detection, Segmentation, Camouflaged Object Detection, Synthetic Aperture Radar image analysis, UAV imagery, and using Vision Foundation Models (VFMs) and Vision-Language Models (VLMs).
 
-<a href="mailto:nacl3084@gmail.com"><img src="https://img.shields.io/badge/Email-nacl3084%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jisanglee/"><img src="https://img.shields.io/badge/LinkedIn-Jisang_Lee-111111?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://scholar.google.com/citations?hl=ko&user=54qWclUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Jisang_Lee-111111?style=flat-square&logo=googlescholar&logoColor=white"/></a> <a href="https://kkubuck.github.io/"><img src="https://img.shields.io/badge/Blog-kkubuck.github.io-111111?style=flat-square&logo=githubpages&logoColor=white"/></a>
+<a href="mailto:nacl3084@gmail.com"><img src="https://img.shields.io/badge/Email-nacl3084%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jisanglee/"><img src="https://img.shields.io/badge/LinkedIn-Jisang_Lee-111111?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://scholar.google.com/citations?hl=ko&user=54qWclUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Jisang_Lee-111111?style=flat-square&logo=googlescholar&logoColor=white"/></a>
 
 </div>
 
