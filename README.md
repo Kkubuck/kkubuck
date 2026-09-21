@@ -28,7 +28,7 @@ for manuscripts that have not yet been accepted.
 
 ### International journals
 
-**SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**\
+**SARR-Net: Sensor-Aware Relation Routing for ...**\
 **J.S. Lee**, C. Park, H.E. Jang\*\
 *IEEE Transactions on Multimedia (TMM, SCIE, Q1)* · 2026 · **Major revision — under review**
 
