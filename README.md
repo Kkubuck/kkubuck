@@ -28,6 +28,10 @@ for manuscripts that have not yet been accepted.
 
 ### International journals
 
+**[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][journal-4]**\
+**J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*\
+*Korean Journal of Remote Sensing (KJRS, SCOPUS)* · 2024
+
 **HFGF-DINOv3: High-Frequency Guided Fusion...**\
 **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*\
 *Pattern Recognition (PR, SCIE, Q1)* · 2026 · **Minor revision — under review**
@@ -51,10 +55,6 @@ J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang\*\
 **[Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform][journal-3]**\
 H.W. Seo, D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*\
 *Journal of KIISE (JOK)* · 2025
-
-**[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][journal-4]**\
-**J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*\
-*Korean Journal of Remote Sensing (SCOPUS)* · 2024
 
 **[Effective Data Augmentations for Cross-Domain Fingerprint Recognition][journal-5]**\
 D.S. Kim, **J.S. Lee**, S.Y. Oh, H.E. Jang\*\
