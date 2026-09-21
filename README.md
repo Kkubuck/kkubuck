@@ -28,13 +28,13 @@ for manuscripts that have not yet been accepted.
 
 ### International journals
 
-**SARR-Net: Sensor-Aware Relation Routing for ...**\
-**J.S. Lee**, C. Park, H.E. Jang\*\
-*IEEE Transactions on Multimedia (TMM, SCIE, Q1)* · 2026 · **Major revision — under review**
+**SARR-Net: Sensor-Aware Relation Routing for ...**
+**J.S. Lee**, C. Park, H.E. Jang*
+*IEEE Transactions on Multimedia (TMM, SCIE · JCR Top 2.3%)* · 2026 · **Major revision — under review**
 
-**HFGF-DINOv3: High-Frequency Guided Fusion...**\
-**J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*\
-*Pattern Recognition (PR, SCIE, Q1)* · 2026 · **Minor revision — under review**
+**HFGF-DINOv3: High-Frequency Guided Fusion...**
+**J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang*
+*Pattern Recognition (PR, SCIE · JCR Top 6.8%)* · 2026 · **Minor revision — under review**
 
 **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][journal-4]**\
 **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*\
