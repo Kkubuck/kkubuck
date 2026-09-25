@@ -1,207 +1,143 @@
+<div align="center">
+
 # Jisang Lee (이지상)
 
-Master's researcher, Artificial Intelligence & Media Laboratory (AIM Lab)\
-Hanbat National University · Daejeon, Republic of Korea
+**Master's Researcher** @ AIM Lab (Artificial Intelligence & Media Laboratory)<br>
+Hanbat National University · Daejeon, Korea
 
-I am interested in computer vision, including object detection, segmentation,
-camouflaged object detection, synthetic aperture radar (SAR) image analysis,
-and UAV imagery. My interests also include using vision foundation models
-(VFMs) and vision-language models (VLMs).
+`Object Detection` `Segmentation` `Camouflaged Object Detection` `SAR` `UAV Imagery` `VFMs` `VLMs`
 
-[Email](mailto:nacl3084@gmail.com) ·
-[Google Scholar](https://scholar.google.com/citations?hl=ko&user=54qWclUAAAAJ) ·
-[LinkedIn](https://www.linkedin.com/in/jisanglee/)
+[![Email](https://img.shields.io/badge/nacl3084%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nacl3084@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=ko&user=54qWclUAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jisanglee/)
 
-[Publications](#publications) · [Experience](#research-experience) ·
-[Awards](#awards-and-honors) · [Competitions](#competitions) · [Skills](#skills)
+</div>
 
-## Publications
+## ✨ Highlights
 
-International and domestic journal and conference work. Review status is shown
-for manuscripts that have not yet been accepted.
+- 📄 **ACCV 2026** — first-author paper **accepted**
+- 📝 **Pattern Recognition** (minor revision) · **IEEE TMM** (major revision) — first-author, under review
+- 🏆 **1st / 141** AI SPARK Challenge 2024 (Grand Prize) · **2nd / 81** National Park Satellite Monitoring AI Challenge 2026
+- 🏅 **3× Best Paper Awards** (KDFS) · **11 awards** in total
+- 🛰️ **Research Intern @ SI Analytics** → first-author paper on SAM-based crop classification in UAV imagery (KJRS 2024)
 
-### International conferences
+## 📄 Publications
 
-**Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**\
-**J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\*\
-*[Asian Conference on Computer Vision (ACCV 2026)](https://accv2026.org/)* · Osaka, Japan · December 2026 · **Accepted**
+**International** <sub>(\* corresponding author)</sub>
 
-### International journals
+- [`ACCV 2026`][accv] **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**\
+  **J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\* — ✅ **Accepted**
 
-**SARR-Net: Sensor-Aware Relation Routing for ...**  
-**J.S. Lee**, C. Park, H.E. Jang\*  
-*IEEE Transactions on Multimedia (TMM, JCR Top 2.3%)* · 2026 · **Major revision — under review**
+- `IEEE TMM` **SARR-Net: Sensor-Aware Relation Routing for ...**\
+  **J.S. Lee**, C. Park, H.E. Jang\* — ⏳ Major revision, under review · JCR top 2.3%
 
-**HFGF-DINOv3: High-Frequency Guided Fusion...**  
-**J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*  
-*Pattern Recognition (PR, JCR Top 6.8%)* · 2026 · **Minor revision — under review**
+- `Pattern Recognition` **HFGF-DINOv3: High-Frequency Guided Fusion ...**\
+  **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\* — ⏳ Minor revision, under review · JCR top 6.8%
 
-**[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][journal-4]**\
-**J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*\
-*Korean Journal of Remote Sensing (KJRS, SCOPUS)* · 2024
+- `KJRS 2024` **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**\
+  **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\* — Korean Journal of Remote Sensing (SCOPUS)
 
+<details>
+<summary><b>Domestic publications</b> — 5 journals · 4 conferences</summary>
 
+**Journals**
 
-### Domestic journals
+- `J. IKEEE 2025` [Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][ikeee-croppaste]\
+  **J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang\*
+- `J. IKEEE 2025` [Enhanced Copy-Paste Data Augmentation Using SAM for Precise Ship Detection][ikeee-ship]\
+  J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang\*
+- `JOK 2025` [Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform][jok]\
+  H.W. Seo, D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*
+- `J. Digital Forensics 2024` [Effective Data Augmentations for Cross-Domain Fingerprint Recognition][df-2024]\
+  D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*
+- `J. Digital Forensics 2023` [Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters][df-2023]\
+  **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\*
 
-**[Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][journal-1]**\
-**J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang\*\
-*Journal of IKEEE (KCI)* · 2025
+**Conferences**
 
-**[Enhanced Copy-Paste Data Augmentation Using SAM for Precise Ship Detection][journal-2]**\
-J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang\*\
-*Journal of IKEEE (KCI)* · 2025
+- `KCC 2024` [Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation][kcc-sar2opt]
+- `KCC 2024` [Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][kcc-croppaste]
+- `JCCI 2023` [Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification][jcci]
+- `KDFS 2022` [Development of Optical Character Recognition Model for Document Leak Investigation][kdfs-ocr]
 
-**[Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform][journal-3]**\
-H.W. Seo, D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*\
-*Journal of KIISE (JOK)* · 2025
+</details>
 
-**[Effective Data Augmentations for Cross-Domain Fingerprint Recognition][journal-5]**\
-D.S. Kim, **J.S. Lee**, S.Y. Oh, H.E. Jang\*\
-*Journal of Digital Forensics (KCI)* · 2024
+## 🔬 Research Experience
 
-**[Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters][journal-6]**\
-**J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\*\
-*Journal of Digital Forensics (KCI)* · 2023
+| Period | Role | Focus |
+|:--|:--|:--|
+| 2025.03 – Present | **Master's Researcher** · AIM Lab | Detection & segmentation with VFMs / VLMs → ACCV 2026 · PR · IEEE TMM |
+| 2025.02 – 2025.10 | **Collaborative Research** · DataMaker | Military AI — zero-shot detection of military vehicles (Joint Command project) |
+| 2024.07 – 2024.09 | **Research Intern** · SI Analytics | Remote sensing & UAV vision — improved a SAM-based parcel segmentation model → [KJRS 2024 paper][kjrs] |
+| 2023.05 – 2023.07 | **Collaborative Research** · Chungnam National Univ. Hospital | Medical AI — X-ray diagnosis of neonatal respiratory distress syndrome |
+| 2022.05 – 2025.02 | **Undergraduate Researcher** · AIM Lab | Computer vision & deep learning |
 
-[journal-1]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967
-[journal-2]: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003289626
-[journal-3]: https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=sharing
-[journal-4]: https://www.kjrs.org/journal/view.html?pn=current_issue&uid=1005&vmd=Full
-[journal-5]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11750871
-[journal-6]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11538137
+## 🏆 Competitions & Awards
 
-### Domestic conferences
+| Result | Competition | Award |
+|:--|:--|:--|
+| 🥈&nbsp;**2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | National Park Satellite Monitoring AI Challenge 2026<br><sub>Landslide area detection & risk analysis from satellite imagery · AI Factory</sub> | |
+| 🥇&nbsp;**1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation · AI Factory</sub> | 🏆 **Grand Prize (대상)** |
+| **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection<br><sub>Classifying images from generative models · AI Connect</sub> | |
+| **17th**&nbsp;/&nbsp;227<br><sub>top 7.4%</sub> | [SW Univ. Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON</sub> | **Special Prize** |
+| **8th**&nbsp;/&nbsp;77<br><sub>top 10.3%</sub> | [SW Univ. Joint AI Competition 2022 — Finals][sw2022]<br><sub>Optical character recognition (OCR) · DACON</sub> | **President of SW Univ. Council Award** |
+| 🥇&nbsp;**1st**&nbsp;/&nbsp;192 | SW Univ. Joint AI Competition 2022 — Preliminaries<br><sub>Psychological trait prediction on tabular data · DACON</sub> | |
 
-**[Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation][conference-1]**\
-KCC 2024 · June 2024
+**Other awards**
 
-**[Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture][conference-2]**\
-KCC 2024 · June 2024
+- **Best Paper Award ×3** — KDFS: [2023 Summer][kdfs-2023s] (Commissioner General of the Korea Coast Guard Award), [2023 Winter][kdfs-2023w] & [2022 Winter][kdfs-2022w] (President of Society Award)
+- **Gold Prize** — [Capstone Design Exhibition (SkyPixel)][capstone], Hanbat National Univ. · 2024
+- **Special Prize** — [Creative Design Online Competition][creative], Nanum Tech · 2022
+- **Prize ×3** — [Computer Engineering Portfolio Competition][portfolio], Hanbat National Univ. · 2022, 2023, 2024
 
-**[Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification][conference-3]**\
-JCCI 2023 · April 2023
+## 📚 Teaching
 
-**[Development of Optical Character Recognition Model for Document Leak Investigation][conference-4]**\
-KDFS 2022 · December 2022
+Teaching Assistant under Prof. H.E. Jang, Hanbat National University
 
-[conference-1]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862004
-[conference-2]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967
-[conference-3]: https://drive.google.com/file/d/1JzvW7VPcfXuq45uLCjjv14xxmpUsrAOH/view?usp=drive_link
-[conference-4]: https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link
+- **Artificial Intelligence and Applications** — Spring 2024, Spring 2025 · 3rd-year Computer Engineering
+- **Data Structure** — Spring 2023 · 2nd-year Computer Engineering
+- **Hanbat AI Intensive Course** — Jan 2023
 
-## Research experience
+## 🛠️ Skills & Certifications
 
-Research appointments and collaborative projects.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### AIM Lab, Hanbat National University
+- **AI-agent research workflow** — multi-domain agent workflows for research coding & experiment design · **50B+ tokens** used (as of Sep 21, 2026)
+- **Deep Learning Specialization**, Coursera (2023) — [Neural Networks and Deep Learning][dl-1] · [Improving Deep Neural Networks][dl-2] · [Structuring Machine Learning Projects][dl-3] · [Convolutional Neural Networks][dl-4] · [Sequence Models][dl-5]
+- **LivDet 2023** Fingerprint Liveness Detection Competition — [Challenge 1][livdet]
 
-**Master's researcher** · March 2025 – present\
-Graduate study at AIM Lab.
+<!-- Publications -->
+[accv]: https://accv2026.org/
+[kjrs]: https://www.kjrs.org/journal/view.html?pn=current_issue&uid=1005&vmd=Full
+[ikeee-croppaste]: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221134
+[ikeee-ship]: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003289626
+[jok]: https://drive.google.com/file/d/1mvgzUPN5YzYnkohcomiQDF7oX4XDr0O0/view?usp=sharing
+[df-2024]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11750871
+[df-2023]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11538137
+[kcc-sar2opt]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862004
+[kcc-croppaste]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967
+[jcci]: https://drive.google.com/file/d/1JzvW7VPcfXuq45uLCjjv14xxmpUsrAOH/view?usp=drive_link
+[kdfs-ocr]: https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link
 
-**Collaborative research** · February 2025 – October 2025\
-Military AI: zero-shot detection of military vehicles.
-Joint Command Projects with DataMaker.
+<!-- Competitions & awards -->
+[aispark]: https://aifactory.space/task/2723/leaderboard
+[sw2023]: https://dacon.io/competitions/official/236092/leaderboard
+[sw2022]: https://dacon.io/competitions/official/235970/leaderboard
+[kdfs-2023s]: https://drive.google.com/file/d/1_pBVNSJTOPrg8lfhbsKrgbad0Rn8lz-9/view?usp=sharing
+[kdfs-2023w]: https://kdfs.jams.or.kr/co/main/jmMain.kci
+[kdfs-2022w]: https://kdfs.jams.or.kr/co/main/jmMain.kci
+[capstone]: https://drive.google.com/file/d/17uTNGGjhYjPSk77HHKluDtimPxuU-GAq/view?usp=sharing
+[creative]: https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png
+[portfolio]: https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do
 
-**Collaborative research** · May 2023 – July 2023\
-Medical AI: X-ray diagnosis of newborns' dyspnea syndrome.
-Joint research with Chungnam National University Hospital (CNUH).
-
-**Undergraduate researcher** · May 2022 – February 2025\
-Research on computer vision and deep learning.
-
-### SI Analytics
-
-**Research intern** · July 2024 – September 2024\
-Remote sensing and UAV vision. Improved a SAM-based parcel segmentation model
-using drone-captured UAV imagery for segmentation and classification.
-
-## Teaching experience
-
-Teaching assistant under Prof. H.E. Jang.
-
-- **Artificial Intelligence and Applications** — March–June 2025;
-  third-year C.E. students.
-- **Artificial Intelligence and Applications** — March–June 2024;
-  third-year C.E. students.
-- **Data Structure** — March–June 2023; second-year C.E. students.
-- **HANBAT AI INTENSIVE COURSE** — January 2023.
-
-## Awards and honors
-
-Awards in research, competitions, and university activities.
-
-### 2024 awards
-
-- [Grand Prize (대상) — 6th AI SPARK Challenge][award-1] — Innopolis Foundation.
-- [Gold Prize — Capstone Design Exhibition (SkyPixel)][award-2] — Hanbat National Univ..
-- [Prize — Computer Engineering Portfolio Competition][award-3] — Hanbat National Univ..
-
-### 2023 awards
-
-- [Special Prize — SW Univ. Joint AI Competition][award-4] — SW Univ. Council.
-- [Best Paper (Commissioner General of the Korea Coast Guard Award)][award-5] — KDFS (Summer).
-- [Best Paper (President of Society Award)][award-6] — KDFS (Winter).
-- [Prize — Computer Engineering Portfolio Competition][award-7] — Hanbat National Univ..
-
-### 2022 awards
-
-- [Best Paper (President of Society Award)][award-8] — KDFS (Winter).
-- [Special Prize — Creative Design Online Competition][award-9] — Nanum Tech.
-- [Award (President of SW Univ. Council Award)][award-10] — SW Univ. Council.
-- [Prize — Computer Engineering Portfolio Competition][award-11] — Hanbat National Univ..
-
-[award-1]: https://aifactory.space/task/2723/leaderboard
-[award-2]: https://drive.google.com/file/d/17uTNGGjhYjPSk77HHKluDtimPxuU-GAq/view?usp=sharing
-[award-3]: https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do
-[award-4]: https://dacon.io/competitions/official/236092/leaderboard
-[award-5]: https://drive.google.com/file/d/1_pBVNSJTOPrg8lfhbsKrgbad0Rn8lz-9/view?usp=sharing
-[award-6]: https://kdfs.jams.or.kr/co/main/jmMain.kci
-[award-7]: https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do
-[award-8]: https://kdfs.jams.or.kr/co/main/jmMain.kci
-[award-9]: https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png
-[award-10]: https://dacon.io/competitions/official/235970/leaderboard
-[award-11]: https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do
-
-## Competitions
-
-**2 / 81 · Top 2.5%** — 2026 국립공원 위성 모니터링 AI 챌린지
-AI Factory · Landslide collapse area detection and risk analysis from satellite imagery
-
-**1 / 141** — 제6회 2024 연구개발특구 AI SPARK 챌린지
-AI Factory · Wildfire area segmentation
-
-**5 / 542 · Top 0.9%** — Fake or Real: AI 생성 이미지 판별 경진대회
-AI Connect · Classification of images generated by generative models
-
-**17 / 227 · Top 7.4%** — SW중심대학 공동 AI 경진대회 2023
-DACON · Building segmentation from satellite imagery
-
-**8 / 77 · Top 10.3%** — SW중심대학 공동 AI 경진대회 2022 (Finals)
-DACON · Optical Character Recognition (OCR)
-
-**1 / 192** — SW중심대학 공동 AI 경진대회 2022 (Preliminaries)
-DACON · Psychological trait prediction on tabular data
-
-
-## Skills
-
-**Languages and libraries:** Python, PyTorch, NumPy, Pandas, Scikit-Learn.
-
-**Research workflow:** Multi-domain AI-agent workflows for research coding and experiment design. Cumulative token usage: **50B+ tokens** as of September 21, 2026.
-
-## Certifications
-
-- [Sequence Models (Deep Learning Specialization)][certificate-1] — Coursera, February 2023.
-- [Convolutional Neural Networks (Deep Learning Specialization)][certificate-2] — Coursera, February 2023.
-- [Structuring Machine Learning Projects (Deep Learning Specialization)][certificate-3] — Coursera, February 2023.
-- [Improving Deep Neural Networks (Deep Learning Specialization)][certificate-4] — Coursera, February 2023.
-- [Neural Networks and Deep Learning (Deep Learning Specialization)][certificate-5] — Coursera, January 2023.
-- [LivDet 2023 Fingerprint Liveness Detection Competition (Challenge 1)][certificate-6] — LivDet, January 2023.
-
-[certificate-1]: https://www.coursera.org/account/accomplishments/certificate/PNBUVCG5J8D9
-[certificate-2]: https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL
-[certificate-3]: https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ
-[certificate-4]: https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN
-[certificate-5]: https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK
-[certificate-6]: https://drive.google.com/file/d/1XUErsGTVUVRhJNu2hnZS4oiAyvpXUYK1/view?usp=sharing
+<!-- Certifications -->
+[dl-1]: https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK
+[dl-2]: https://www.coursera.org/account/accomplishments/certificate/KFCLEVVDX7FN
+[dl-3]: https://www.coursera.org/account/accomplishments/certificate/89UL68M3VAVJ
+[dl-4]: https://www.coursera.org/account/accomplishments/certificate/KK5YLKL6UFNL
+[dl-5]: https://www.coursera.org/account/accomplishments/certificate/PNBUVCG5J8D9
+[livdet]: https://drive.google.com/file/d/1XUErsGTVUVRhJNu2hnZS4oiAyvpXUYK1/view?usp=sharing
