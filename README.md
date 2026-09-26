@@ -85,6 +85,7 @@ Object Detection · Segmentation · Camouflaged Object Detection · SAR · UAV I
 
 | Result | Competition | Award |
 |:--|:--|:--|
+| **2nd**&nbsp;/&nbsp;66<br><sub>top 3.0%</sub> | [Cyrillic Morphological Induction Grand Challenge 2026][cmi]<br><sub>Morphology induction for a synthetic Cyrillic language · Kaggle</sub> | |
 | **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | National Park Satellite Monitoring AI Challenge 2026<br><sub>Landslide area detection & risk analysis from satellite imagery · AI Factory</sub> | |
 | **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory</sub> | **Grand Prize (대상)** |
 | **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
@@ -132,6 +133,7 @@ Teaching Assistant under Prof. Haneol Jang, Hanbat National University
 [kdfs-ocr]: https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link
 
 <!-- Competitions & awards -->
+[cmi]: https://www.kaggle.com/competitions/cyrillic-morphological-induction-grand-challenge/leaderboard
 [aispark]: https://aifactory.space/task/2723/leaderboard
 [sw2023]: https://dacon.io/competitions/official/236092/leaderboard
 [sw2022]: https://dacon.io/competitions/official/235970/leaderboard
