@@ -19,59 +19,87 @@ built on vision foundation models and vision–language models.
 
 **International**
 
-- [`ACCV 2026`][accv] **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**\
-  **J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\* — *Accepted*
+- **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**\
+  **J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\*\
+  *Asian Conference on Computer Vision (ACCV)*, 2026 · Accepted
 
-- `IEEE TMM` **SARR-Net: Sensor-Aware Relation Routing for ...**\
-  **J.S. Lee**, C. Park, H.E. Jang\* — *Under review, major revision* · JCR top 2.3%
+- **SARR-Net: Sensor-Aware Relation Routing for ...**\
+  **J.S. Lee**, C. Park, H.E. Jang\*\
+  *IEEE Transactions on Multimedia (TMM)* · Under review (major revision) · SCIE, JCR top 2.3%
 
-- `Pattern Recognition` **HFGF-DINOv3: High-Frequency Guided Fusion ...**\
-  **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\* — *Under review, minor revision* · JCR top 6.8%
+- **HFGF-DINOv3: High-Frequency Guided Fusion ...**\
+  **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*\
+  *Pattern Recognition (PR)* · Under review (minor revision) · SCIE, JCR top 6.8%
 
-- `KJRS 2024` **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**\
-  **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\* — Korean Journal of Remote Sensing (SCOPUS)
+- **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**\
+  **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*\
+  *Korean Journal of Remote Sensing (KJRS)*, 2024 · SCOPUS
 
 **Domestic journals**
 
-- `J. IKEEE 2025` [Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][ikeee-croppaste]\
-  **J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang\*
-- `J. IKEEE 2025` [Enhanced Copy-Paste Data Augmentation Using SAM for Precise Ship Detection][ikeee-ship]\
-  J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang\*
-- `JBE 2025` [Effective Data Preprocessing and Augmentation Methods of SAR Images for Optical Image Translation][jbe]\
-  H.W. Seo, **J.S. Lee**, W.J. Park, H.C. Choi, K.H. Kim, H.E. Jang\*
-- `JOK 2025` [Effective Detection of Generated Images Using Frequency Transform][jok]\
-  H.W. Seo, D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*
-- `J. Digital Forensics 2024` [Effective Data Augmentations for Cross-Domain Fingerprint Recognition][df-2024]\
-  D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*
-- `J. Digital Forensics 2023` [Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters][df-2023]\
-  **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\*
+- **[Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][ikeee-croppaste]**\
+  **J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang\*\
+  *Journal of IKEEE*, 2025 · KCI
+
+- **[Enhanced Copy-Paste Data Augmentation Using SAM for Precise Ship Detection][ikeee-ship]**\
+  J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang\*\
+  *Journal of IKEEE*, 2025 · KCI
+
+- **[Effective Data Preprocessing and Augmentation Methods of SAR Images for Optical Image Translation][jbe]**\
+  H.W. Seo, **J.S. Lee**, W.J. Park, H.C. Choi, K.H. Kim, H.E. Jang\*\
+  *Journal of Broadcast Engineering (JBE)*, 2025 · KCI
+
+- **[Effective Detection of Generated Images Using Frequency Transform][jok]**\
+  H.W. Seo, D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*\
+  *Journal of KIISE (JOK)*, 2025 · KCI
+
+- **[Effective Data Augmentations for Cross-Domain Fingerprint Recognition][df-2024]**\
+  D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*\
+  *Journal of Digital Forensics*, 2024 · KCI
+
+- **[Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters][df-2023]**\
+  **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\*\
+  *Journal of Digital Forensics*, 2023 · KCI
 
 **Domestic conferences**
 
-- `KCC 2024` [Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][kcc-croppaste]\
-  **J.S. Lee**, H.W. Seo, C. Park, H.E. Jang
-- `KCC 2024` [Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation][kcc-sar2opt]\
-  H.W. Seo, **J.S. Lee**, C. Park, H.E. Jang
-- `KDFS 2023 Winter` Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform\
-  H.W. Seo, **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang — *Best Paper Award*
-- `KDFS 2023 Summer` Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model\
-  **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang — *Best Paper Award (Commissioner General of the Korea Coast Guard)*
-- `KDFS 2023 Summer` Effective Data Augmentations for Fingerprint Recognition\
-  D.S. Kim, **J.S. Lee**, S.Y. Oh, H.E. Jang
-- `JCCI 2023` [Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification][jcci]\
-  S.Y. Oh, **J.S. Lee**, D.S. Kim, H.E. Jang
-- `KDFS 2022 Winter` [Development of Optical Character Recognition Model for Document Leak Investigation][kdfs-ocr]\
-  E.J. Jang, **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang — *Best Paper Award*
+- **[Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][kcc-croppaste]**\
+  **J.S. Lee**, H.W. Seo, C. Park, H.E. Jang\
+  *Korea Computer Congress (KCC)*, 2024
+
+- **[Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation][kcc-sar2opt]**\
+  H.W. Seo, **J.S. Lee**, C. Park, H.E. Jang\
+  *Korea Computer Congress (KCC)*, 2024
+
+- **Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform**\
+  H.W. Seo, **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\
+  *Korean Digital Forensics Society Winter Conference (KDFS)*, 2023 · Best Paper Award (President of Society Award)
+
+- **Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model**\
+  **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\
+  *Korean Digital Forensics Society Summer Conference (KDFS)*, 2023 · Best Paper Award (Commissioner General of the Korea Coast Guard Award)
+
+- **Effective Data Augmentations for Fingerprint Recognition**\
+  D.S. Kim, **J.S. Lee**, S.Y. Oh, H.E. Jang\
+  *Korean Digital Forensics Society Summer Conference (KDFS)*, 2023
+
+- **[Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification][jcci]**\
+  S.Y. Oh, **J.S. Lee**, D.S. Kim, H.E. Jang\
+  *Joint Conference on Communications and Information (JCCI)*, 2023
+
+- **[Development of Optical Character Recognition Model for Document Leak Investigation][kdfs-ocr]**\
+  E.J. Jang, **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\
+  *Korean Digital Forensics Society Winter Conference (KDFS)*, 2022 · Best Paper Award (President of Society Award)
 
 ## Experience
 
 | Period | Role | Focus |
 |:--|:--|:--|
-| 2025.03 – Present | **Master's Researcher** · AIM Lab | Detection and segmentation with VFMs / VLMs → ACCV 2026, Pattern Recognition, IEEE TMM |
+| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → ACCV 2026, Pattern Recognition, IEEE TMM |
 | 2025.01 – 2025.10 | **Collaborative Research** · DataMaker | Military AI — open-vocabulary zero-shot detection of military vehicles (Joint Command project) |
 | 2024.07 – 2024.09 | **Research Intern** · SI Analytics | Remote sensing and UAV vision — improved a SAM-based parcel segmentation model → [KJRS 2024 paper][kjrs] |
 | 2024.01 – 2024.12 | **Capstone Design** · SkyPixel | SAR image analysis and semantic segmentation — despeckling, generative models, augmentation, knowledge distillation → Gold Prize |
-| 2023.01 – 2023.07 | **Collaborative Research** · Chungnam National Univ. Hospital | Medical AI — X-ray diagnosis of neonatal respiratory distress syndrome (lung segmentation, classification, Grad-CAM) |
+| 2023.01 – 2023.07 | **Collaborative Research** · Chungnam National University Hospital | Medical AI — X-ray diagnosis of neonatal respiratory distress syndrome (lung segmentation, classification, Grad-CAM) |
 | 2022.05 – 2025.02 | **Undergraduate Researcher** · AIM Lab | Computer vision and deep learning |
 
 ## Education
@@ -86,40 +114,39 @@ built on vision foundation models and vision–language models.
 | **2nd**&nbsp;/&nbsp;66<br><sub>top 3.0%</sub> | [Cyrillic Morphological Induction Grand Challenge 2026][cmi]<br><sub>Morphology induction for a synthetic Cyrillic language · Kaggle · Team Christopher</sub> | |
 | **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | |
 | **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · ₩10M</sub> |
-| **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
-| **17th**&nbsp;/&nbsp;227<br><sub>top 7.4%</sub> | [SW Univ. Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news] |
-| **8th**&nbsp;/&nbsp;77<br><sub>top 10.3%</sub> | [SW Univ. Joint AI Competition 2022 — Finals][sw2022]<br><sub>Korean text OCR · DACON · Team AIM.Lab</sub> | [**Encouragement Prize**][sw2022-news]<br><sub>President of SW Univ. Council Award</sub> |
-| **1st**&nbsp;/&nbsp;192 | [SW Univ. Joint AI Competition 2022 — Preliminaries][sw2022-pre]<br><sub>Psychological trait prediction on tabular data · DACON · Team AIM.Lab</sub> | |
+| **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection Challenge 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
+| **17th**&nbsp;/&nbsp;227<br><sub>top 7.4%</sub> | [SW-Centered University Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news] |
+| **8th**&nbsp;/&nbsp;77<br><sub>top 10.3%</sub> | [SW-Centered University Joint AI Competition 2022 — Finals][sw2022]<br><sub>Korean text OCR · DACON · Team AIM.Lab</sub> | [**Encouragement Prize**][sw2022-news]<br><sub>President of SW-Centered University Council Award</sub> |
+| **1st**&nbsp;/&nbsp;192 | [SW-Centered University Joint AI Competition 2022 — Preliminaries][sw2022-pre]<br><sub>Psychological trait prediction on tabular data · DACON · Team AIM.Lab</sub> | |
 
 **Other awards**
 
-- **Best Paper Award ×3** — KDFS 2023 Summer (Commissioner General of the Korea Coast Guard Award), 2023 Winter and 2022 Winter (President of Society Award)
-- **Gold Prize** — Capstone Design Exhibition (SkyPixel), Hanbat National Univ. · 2024
+- **Best Paper Award ×3** — Korean Digital Forensics Society (KDFS) · 2023 Summer (Commissioner General of the Korea Coast Guard Award), 2023 Winter and 2022 Winter (President of Society Award)
+- **Gold Prize** — Capstone Design Exhibition (SkyPixel), Hanbat National University · 2024
 - **Special Prize (President's Award)** — [Creative Design Online Competition][creative], Nanum Tech · 2022
-- **Prize ×3** — [Computer Engineering Portfolio Competition][portfolio], Hanbat National Univ. · 2022, 2023, 2024
+- **Prize ×3** — [Computer Engineering Portfolio Competition][portfolio], Hanbat National University · 2022, 2023, 2024
 
 ## Teaching and service
 
 Teaching assistant under Prof. Haneol Jang, Hanbat National University
 
-- **Computer Vision** — Spring 2026, Fall 2026 · graduate course
-- **Computer Vision** — Fall 2025 · 4th-year Computer Engineering
-- **Artificial Intelligence and Applications** — Spring 2024, Spring 2025 · 3rd-year Computer Engineering
-- **Data Structure** — Spring 2023 · 2nd-year Computer Engineering
-- **Hanbat AI Intensive Course** — Jan 2023
-- **Kaggle competition host** — [Sejong RISE Cyber-Attack Anomaly Score Prediction Challenge][rise-kaggle] · Dec 2025 · 15 teams
+- **Computer Vision** — graduate course · Spring 2026, Fall 2026
+- **Computer Vision** — 4th-year Computer Engineering · Fall 2025
+- **Artificial Intelligence and Applications** — 3rd-year Computer Engineering · Spring 2024, Spring 2025
+- **Data Structure** — 2nd-year Computer Engineering · Spring 2023
+- **Hanbat AI Intensive Course** — 2023.01
+- **Kaggle competition host** — [Sejong RISE Cyber-Attack Anomaly Score Prediction Challenge][rise-kaggle] · 15 teams · 2025.12
 
 ## Skills and certifications
 
 - **Programming** — Python, C, C++, Java
 - **Libraries** — PyTorch, NumPy, Pandas, scikit-learn
-- **Research workflow** — multi-domain AI-agent workflows for research coding and experiment design · 50B+ tokens used as of Sep 21, 2026
+- **Research workflow** — multi-domain AI-agent workflows for research coding and experiment design · 50B+ tokens used as of 2026.09.21
 - **Writing** — [paper-review blog](https://kkubuck.github.io/) with 38+ paper reviews and 27+ research notes, mostly camouflaged and open-vocabulary segmentation
-- **Deep Learning Specialization**, Coursera (2023) — [Neural Networks and Deep Learning][dl-1] · [Improving Deep Neural Networks][dl-2] · [Structuring Machine Learning Projects][dl-3] · [Convolutional Neural Networks][dl-4] · [Sequence Models][dl-5]
-- **LivDet 2023** Fingerprint Liveness Detection Competition (Challenge 1) — certificate, Jan 2023
+- **Deep Learning Specialization** — Coursera · [Neural Networks and Deep Learning][dl-1] · [Improving Deep Neural Networks][dl-2] · [Structuring Machine Learning Projects][dl-3] · [Convolutional Neural Networks][dl-4] · [Sequence Models][dl-5] · 2023
+- **LivDet 2023 Fingerprint Liveness Detection Competition** — Challenge 1 certificate · 2023.01
 
 <!-- Publications -->
-[accv]: https://accv2026.org/
 [kjrs]: https://www.kjrs.org/journal/view.html?pn=current_issue&uid=1005&vmd=Full
 [ikeee-croppaste]: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221134
 [ikeee-ship]: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003289626
