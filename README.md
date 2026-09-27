@@ -86,13 +86,12 @@ Object Detection · Segmentation · Camouflaged Object Detection · SAR · UAV I
 | Result | Competition | Award |
 |:--|:--|:--|
 | **2nd**&nbsp;/&nbsp;66<br><sub>top 3.0%</sub> | [Cyrillic Morphological Induction Grand Challenge 2026][cmi]<br><sub>Morphology induction for a synthetic Cyrillic language · Kaggle</sub> | |
-| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | National Park Satellite Monitoring AI Challenge 2026<br><sub>Landslide area detection & risk analysis from satellite imagery · AI Factory</sub> | |
-| **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory</sub> | **Grand Prize (대상)** |
+| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection & risk analysis from satellite imagery · AI Factory</sub> | |
+| **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · ₩10M</sub> |
 | **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
-| **17th**&nbsp;/&nbsp;227<br><sub>top 7.4%</sub> | [SW Univ. Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON</sub> | **Special Prize** |
-| **8th**&nbsp;/&nbsp;77<br><sub>top 10.3%</sub> | [SW Univ. Joint AI Competition 2022 — Finals][sw2022]<br><sub>Korean text OCR · DACON</sub> | **Encouragement Prize**<br><sub>President of SW Univ. Council Award</sub> |
-| **1st**&nbsp;/&nbsp;192 | SW Univ. Joint AI Competition 2022 — Preliminaries<br><sub>Psychological trait prediction on tabular data · DACON</sub> | |
-
+| **17th**&nbsp;/&nbsp;227<br><sub>top 7.4%</sub> | [SW Univ. Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news] |
+| **8th**&nbsp;/&nbsp;77<br><sub>top 10.3%</sub> | [SW Univ. Joint AI Competition 2022 — Finals][sw2022]<br><sub>Korean text OCR · DACON · Team AIM.Lab</sub> | [**Encouragement Prize**][sw2022-news]<br><sub>President of SW Univ. Council Award</sub> |
+| **1st**&nbsp;/&nbsp;192 | [SW Univ. Joint AI Competition 2022 — Preliminaries][sw2022-pre]<br><sub>Psychological trait prediction on tabular data · DACON · Team AIM.Lab</sub> | |
 **Other awards**
 
 - **Best Paper Award ×3** — KDFS 2023 Summer (Commissioner General of the Korea Coast Guard Award), [2023 Winter][kdfs] & [2022 Winter][kdfs] (President of Society Award)
@@ -133,13 +132,13 @@ Teaching Assistant under Prof. Haneol Jang, Hanbat National University
 [kdfs-ocr]: https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link
 
 <!-- Competitions & awards -->
-[cmi]: https://www.kaggle.com/competitions/cyrillic-morphological-induction-grand-challenge/leaderboard
-[aispark]: https://aifactory.space/task/2723/leaderboard
+[knps]: https://aifactory.space/ko/competitions/9305/leaderboard
+[aispark]: https://aifactory.space/ko/competitions/2723
 [sw2023]: https://dacon.io/competitions/official/236092/leaderboard
+[sw2023-news]: https://www.chungnamilbo.co.kr/news/articleView.html?idxno=730542
 [sw2022]: https://dacon.io/competitions/official/235970/leaderboard
-[kdfs]: https://kdfs.jams.or.kr/co/main/jmMain.kci
-[creative]: https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png
-[portfolio]: https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do
+[sw2022-news]: https://www.dtnews24.com/news/articleView.html?idxno=735256
+[sw2022-pre]: https://dacon.io/competitions/official/235902/leaderboard
 
 <!-- Certifications -->
 [dl-1]: https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK
