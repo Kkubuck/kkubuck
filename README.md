@@ -19,21 +19,25 @@ built on vision foundation models and vision–language models.
 
 **International**
 
-- **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**\
-  **J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\*\
-  *Asian Conference on Computer Vision (ACCV)*, 2026 · Accepted
+- **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**
+  **J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\*
+  *Asian Conference on Computer Vision (ACCV)*, 2026 · **Accepted**
+  <sub>BK21 CS recognized international conference · Osaka International Convention Center (Grand Cube Osaka), Osaka, Japan · Main conference: Dec. 16–18, 2026 · Presentation: TBA</sub>
 
-- **HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection**\
-  **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*\
-  *Pattern Recognition (PR)*, 2026 · Accepted · SCIE, JCR top 6.8%
+- **HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection**
+  **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*
+  *Pattern Recognition (PR)*, 2026 · **Accepted**
+  <sub>SCIE · JCR Q1 · top 6.8% · Impact Factor: **9.1**</sub>
 
-- **SARR-Net: Sensor-Aware Relation Routing for ...**\
-  **J.S. Lee**, C. Park, H.E. Jang\*\
-  *IEEE Transactions on Multimedia (TMM)* · Under review (major revision) · SCIE, JCR top 2.3%
+- **SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**
+  **J.S. Lee**, C. Park, H.E. Jang\*
+  *IEEE Transactions on Multimedia (TMM)*, 2026 · **Major revision — under review**
+  <sub>SCIE · JCR Q1 · top 2.3% · Impact Factor: **9.9**</sub>
 
-- **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**\
-  **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*\
-  *Korean Journal of Remote Sensing (KJRS)*, 2024 · SCOPUS
+- **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**
+  **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*
+  *Korean Journal of Remote Sensing (KJRS)*, 2024
+  <sub>ESCI · Scopus </sub>
 
 **Domestic journals**
 
