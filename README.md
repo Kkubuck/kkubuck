@@ -17,83 +17,85 @@ built on vision foundation models and vision–language models.
 
 <sub>\* corresponding author</sub>
 
-**International**
+### International
 
-- **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**
-  **J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\*
-  *Asian Conference on Computer Vision (ACCV)*, 2026 · **Accepted**
-  <sub>BK21 CS recognized international conference · Osaka International Convention Center (Grand Cube Osaka), Osaka, Japan · Main conference: Dec. 16–18, 2026 · Presentation: TBA</sub>
+- **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**<br>
+  **J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\*<br>
+  *Asian Conference on Computer Vision (ACCV)*, 2026 · **Accepted**<br>
+  <sub>BK21 CS recognized international conference (IF 1) · Osaka International Convention Center (Grand Cube Osaka), Osaka, Japan · Dec. 16–18, 2026 · Presentation: TBA</sub>
 
-- **HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection**
-  **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*
-  *Pattern Recognition (PR)*, 2026 · **Accepted**
+- **HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection**<br>
+  **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*<br>
+  *Pattern Recognition (PR)*, 2026 · **Accepted**<br>
   <sub>SCIE · JCR Q1 · top 6.8% · Impact Factor: **9.1**</sub>
 
-- **SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**
-  **J.S. Lee**, C. Park, H.E. Jang\*
-  *IEEE Transactions on Multimedia (TMM)*, 2026 · **Major revision — under review**
+- **SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**<br>
+  **J.S. Lee**, C. Park, H.E. Jang\*<br>
+  *IEEE Transactions on Multimedia (TMM)*, 2026 · **Major revision — under review**<br>
   <sub>SCIE · JCR Q1 · top 2.3% · Impact Factor: **9.9**</sub>
 
-- **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**
-  **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*
-  *Korean Journal of Remote Sensing (KJRS)*, 2024
-  <sub>ESCI · Scopus </sub>
+- **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**<br>
+  **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*<br>
+  *Korean Journal of Remote Sensing (KJRS)*, 2024<br>
+  <sub>ESCI · Scopus</sub>
 
-**Domestic journals**
 
-- **[Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][ikeee-croppaste]**\
-  **J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang\*\
+### Domestic journals
+
+- **[Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][ikeee-croppaste]**<br>
+  **J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang\*<br>
   *Journal of IKEEE*, 2025 · KCI
 
-- **[Enhanced Copy-Paste Data Augmentation Using SAM for Precise Ship Detection][ikeee-ship]**\
-  J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang\*\
+- **[Enhanced Copy-Paste Data Augmentation Using SAM for Precise Ship Detection][ikeee-ship]**<br>
+  J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang\*<br>
   *Journal of IKEEE*, 2025 · KCI
 
-- **[Effective Data Preprocessing and Augmentation Methods of SAR Images for Optical Image Translation][jbe]**\
-  H.W. Seo, **J.S. Lee**, W.J. Park, H.C. Choi, K.H. Kim, H.E. Jang\*\
+- **[Effective Data Preprocessing and Augmentation Methods of SAR Images for Optical Image Translation][jbe]**<br>
+  H.W. Seo, **J.S. Lee**, W.J. Park, H.C. Choi, K.H. Kim, H.E. Jang\*<br>
   *Journal of Broadcast Engineering (JBE)*, 2025 · KCI
 
-- **[Effective Detection of Generated Images Using Frequency Transform][jok]**\
-  H.W. Seo, D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*\
+- **[Effective Detection of Generated Images Using Frequency Transform][jok]**<br>
+  H.W. Seo, D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*<br>
   *Journal of KIISE (JOK)*, 2025 · KCI
 
-- **[Effective Data Augmentations for Cross-Domain Fingerprint Recognition][df-2024]**\
-  D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*\
+- **[Effective Data Augmentations for Cross-Domain Fingerprint Recognition][df-2024]**<br>
+  D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*<br>
   *Journal of Digital Forensics*, 2024 · KCI
 
-- **[Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters][df-2023]**\
-  **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\*\
+- **[Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters][df-2023]**<br>
+  **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\*<br>
   *Journal of Digital Forensics*, 2023 · KCI
 
-**Domestic conferences**
 
-- **[Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][kcc-croppaste]**\
-  **J.S. Lee**, H.W. Seo, C. Park, H.E. Jang\
+### Domestic conferences
+
+- **[Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][kcc-croppaste]**<br>
+  **J.S. Lee**, H.W. Seo, C. Park, H.E. Jang<br>
   *Korea Computer Congress (KCC)*, 2024
 
-- **[Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation][kcc-sar2opt]**\
-  H.W. Seo, **J.S. Lee**, C. Park, H.E. Jang\
+- **[Data Preprocessing and Augmentation Methods for SAR to Optical Image Translation][kcc-sar2opt]**<br>
+  H.W. Seo, **J.S. Lee**, C. Park, H.E. Jang<br>
   *Korea Computer Congress (KCC)*, 2024
 
-- **Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform**\
-  H.W. Seo, **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\
-  *Korean Digital Forensics Society Winter Conference (KDFS)*, 2023 · Best Paper Award (President of Society Award)
+- **Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform**<br>
+  H.W. Seo, **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang<br>
+  *Korean Digital Forensics Society Winter Conference (KDFS)*, 2023 · **Best Paper Award (President of Society Award)**
 
-- **Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model**\
-  **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\
-  *Korean Digital Forensics Society Summer Conference (KDFS)*, 2023 · Best Paper Award (Commissioner General of the Korea Coast Guard Award)
+- **Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model**<br>
+  **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang<br>
+  *Korean Digital Forensics Society Summer Conference (KDFS)*, 2023 · **Best Paper Award (Commissioner General of the Korea Coast Guard Award)**
 
-- **Effective Data Augmentations for Fingerprint Recognition**\
-  D.S. Kim, **J.S. Lee**, S.Y. Oh, H.E. Jang\
+- **Effective Data Augmentations for Fingerprint Recognition**<br>
+  D.S. Kim, **J.S. Lee**, S.Y. Oh, H.E. Jang<br>
   *Korean Digital Forensics Society Summer Conference (KDFS)*, 2023
 
-- **[Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification][jcci]**\
-  S.Y. Oh, **J.S. Lee**, D.S. Kim, H.E. Jang\
+- **[Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification][jcci]**<br>
+  S.Y. Oh, **J.S. Lee**, D.S. Kim, H.E. Jang<br>
   *Joint Conference on Communications and Information (JCCI)*, 2023
 
-- **[Development of Optical Character Recognition Model for Document Leak Investigation][kdfs-ocr]**\
-  E.J. Jang, **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\
-  *Korean Digital Forensics Society Winter Conference (KDFS)*, 2022 · Best Paper Award (President of Society Award)
+- **[Development of Optical Character Recognition Model for Document Leak Investigation][kdfs-ocr]**<br>
+  E.J. Jang, **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang<br>
+  *Korean Digital Forensics Society Winter Conference (KDFS)*, 2022 · **Best Paper Award (President of Society Award)**
 
 ## Experience
 
