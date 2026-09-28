@@ -23,13 +23,13 @@ built on vision foundation models and vision–language models.
   **J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\*\
   *Asian Conference on Computer Vision (ACCV)*, 2026 · Accepted
 
+- **HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection**\
+  **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*\
+  *Pattern Recognition (PR)*, 2026 · Accepted · SCIE, JCR top 6.8%
+
 - **SARR-Net: Sensor-Aware Relation Routing for ...**\
   **J.S. Lee**, C. Park, H.E. Jang\*\
   *IEEE Transactions on Multimedia (TMM)* · Under review (major revision) · SCIE, JCR top 2.3%
-
-- **HFGF-DINOv3: High-Frequency Guided Fusion ...**\
-  **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*\
-  *Pattern Recognition (PR)* · Under review (minor revision) · SCIE, JCR top 6.8%
 
 - **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**\
   **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*\
