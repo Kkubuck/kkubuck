@@ -19,20 +19,35 @@ built on vision foundation models and vision–language models.
 
 ### International
 
-- **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**<br>
-  **J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\*<br>
-  *Asian Conference on Computer Vision (ACCV)*, 2026 · **Accepted**<br>
-  <sub>BK21 CS recognized international conference (IF 1) · Osaka International Convention Center (Grand Cube Osaka), Osaka, Japan · Dec. 16–18, 2026 · Presentation: TBA</sub>
-
 - **HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection**<br>
   **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*<br>
   *Pattern Recognition (PR)*, 2026 · **Accepted**<br>
   <sub>SCIE · JCR Q1 · top 6.8% · Impact Factor: **9.1**</sub>
 
+- **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**<br>
+  **J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\*<br>
+  *Asian Conference on Computer Vision (ACCV)*, 2026 · **Accepted**<br>
+  <sub>BK21 CS recognized international conference (IF 1) · Osaka International Convention Center (Grand Cube Osaka), Osaka, Japan · Dec. 16–18, 2026 · Presentation: TBA</sub>
+
 - **SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**<br>
   **J.S. Lee**, C. Park, H.E. Jang\*<br>
   *IEEE Transactions on Multimedia (TMM)*, 2026 · **Major revision — under review**<br>
   <sub>SCIE · JCR Q1 · top 2.3% · Impact Factor: **9.9**</sub>
+
+- **Correcting What Matters: Multispectral Evidence-Guided Signed Rectification...**<br>
+  **J.S. Lee**, W. Park, S. Pyo, K.T. Lim, H.E. Jang\*<br>
+  *IEEE Transactions on Multimedia (TMM)*, 2026 · **Under review**<br>
+  <sub>SCIE · JCR Q1 · top 2.3% · Impact Factor: **9.9**</sub>
+
+- **RefTRACE: Reference-Faithful Evaluation and Dense Evidence Routing...**<br>
+  **J.S. Lee**, W. Park, E.K. Kim, H.E. Jang\*<br>
+  *Journal of Computational Design and Engineering (JCDE)*, 2026 · **Under review**<br>
+  <sub>SCIE · JCR Q1 · top 6.2% · Impact Factor: **6.8**</sub>
+
+- **ReCAST-Net: Region-Centric Spectral Adaptation and Calibration...**<br>
+  **J.S. Lee**, K. Woradit, J. Park, H.E. Jang\*<br>
+  *Journal of Computational Design and Engineering (JCDE)*, 2026 · **Under review**<br>
+  <sub>SCIE · JCR Q1 · top 6.2% · Impact Factor: **6.8**</sub>
 
 - **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**<br>
   **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*<br>
