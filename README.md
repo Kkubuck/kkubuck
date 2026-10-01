@@ -132,12 +132,12 @@ built on vision foundation models and vision–language models.
 
 | Result | Competition | Award |
 |:--|:--|:--|
-| **2nd**&nbsp;/&nbsp;66<br><sub>top 3.0%</sub> | [Cyrillic Morphological Induction Grand Challenge 2026][cmi]<br><sub>Morphology induction for a synthetic Cyrillic language · Kaggle · Team Christopher</sub> | |
-| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | |
-| **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · ₩10M</sub> |
+| **2nd**&nbsp;/&nbsp;66<br><sub>top 3.0%</sub> | [Cyrillic Morphological Induction Grand Challenge 2026][cmi]<br><sub>Morphology induction for a synthetic Cyrillic language · Kaggle · Team Christopher · **$200 prize pool**</sub> | |
+| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | **Excellence Award (최우수상)**<br><sub>Approx. **$1,105**</sub> |
+| **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · Approx. **$7,367**</sub> |
 | **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection Challenge 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
-| **17th**&nbsp;/&nbsp;227<br><sub>top 7.4%</sub> | [SW-Centered University Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news] |
-| **8th**&nbsp;/&nbsp;77<br><sub>top 10.3%</sub> | [SW-Centered University Joint AI Competition 2022 — Finals][sw2022]<br><sub>Korean text OCR · DACON · Team AIM.Lab</sub> | [**Encouragement Prize**][sw2022-news]<br><sub>President of SW-Centered University Council Award</sub> |
+| **17th**&nbsp;/&nbsp;227<br><sub>top 7.5%</sub> | [SW-Centered University Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news]<br><sub>DEEPNOID Award · Approx. **$368**</sub> |
+| **8th**&nbsp;/&nbsp;77<br><sub>top 10.4%</sub> | [SW-Centered University Joint AI Competition 2022 — Finals][sw2022]<br><sub>Korean text OCR · DACON · Team AIM.Lab</sub> | [**Encouragement Prize**][sw2022-news]<br><sub>President of SW-Centered University Council Award · Approx. **$221**</sub> |
 | **1st**&nbsp;/&nbsp;192 | [SW-Centered University Joint AI Competition 2022 — Preliminaries][sw2022-pre]<br><sub>Psychological trait prediction on tabular data · DACON · Team AIM.Lab</sub> | |
 
 **Other awards**
