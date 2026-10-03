@@ -22,65 +22,71 @@ built on vision foundation models and vision–language models.
 - **HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection**<br>
   **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*<br>
   *Pattern Recognition (PR)*, 2026 · **Accepted**<br>
-  <sub>SCIE · JCR Q1 · top 6.8% · Impact Factor: **9.1**</sub>
+  <sub>SCIE · JCR Q1, top 6.8% · IF 9.1</sub>
 
 - **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**<br>
   **J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\*<br>
   *Asian Conference on Computer Vision (ACCV)*, 2026 · **Accepted**<br>
-  <sub>BK21 CS recognized international conference (IF 1) · Osaka International Convention Center (Grand Cube Osaka), Osaka, Japan · Dec. 16–18, 2026 · Presentation: TBA</sub>
-
-- **SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**<br>
-  **J.S. Lee**, C. Park, H.E. Jang\*<br>
-  *IEEE Transactions on Multimedia (TMM)*, 2026 · **Major revision — under review**<br>
-  <sub>SCIE · JCR Q1 · top 2.3% · Impact Factor: **9.9**</sub>
-
-- **Correcting What Matters: Multispectral Evidence-Guided Signed Rectification...**<br>
-  **J.S. Lee**, W. Park, S. Pyo, K.T. Lim, H.E. Jang\*<br>
-  *IEEE Transactions on Multimedia (TMM)*, 2026 · **Under review**<br>
-  <sub>SCIE · JCR Q1 · top 2.3% · Impact Factor: **9.9**</sub>
-
-- **RefTRACE: Reference-Faithful Evaluation and Dense Evidence Routing...**<br>
-  **J.S. Lee**, W. Park, E.K. Kim, H.E. Jang\*<br>
-  *Journal of Computational Design and Engineering (JCDE)*, 2026 · **Under review**<br>
-  <sub>SCIE · JCR Q1 · top 6.2% · Impact Factor: **6.8**</sub>
-
-- **ReCAST-Net: Region-Centric Spectral Adaptation and Calibration...**<br>
-  **J.S. Lee**, K. Woradit, J. Park, H.E. Jang\*<br>
-  *Journal of Computational Design and Engineering (JCDE)*, 2026 · **Under review**<br>
-  <sub>SCIE · JCR Q1 · top 6.2% · Impact Factor: **6.8**</sub>
+  <sub>BK21 CS-recognized conference (IF 1) · Grand Cube Osaka, Japan · Dec 16–18, 2026</sub>
 
 - **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**<br>
   **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*<br>
   *Korean Journal of Remote Sensing (KJRS)*, 2024<br>
   <sub>ESCI · Scopus</sub>
 
+### Under review
+
+- **SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**<br>
+  **J.S. Lee**, C. Park, H.E. Jang\*<br>
+  *IEEE Transactions on Multimedia (TMM)*, 2026 · **Major revision**<br>
+  <sub>SCIE · JCR Q1, top 2.3% · IF 9.9</sub>
+
+- **Correcting What Matters: Multispectral Evidence-Guided Signed Rectification ...**<br>
+  **J.S. Lee**, W. Park, S. Pyo, K.T. Lim, H.E. Jang\*<br>
+  *IEEE Transactions on Multimedia (TMM)*, 2026 · Under review<br>
+  <sub>SCIE · JCR Q1, top 2.3% · IF 9.9</sub>
+
+- **RefTRACE: Reference-Faithful Evaluation and Dense Evidence Routing ...**<br>
+  **J.S. Lee**, W. Park, E.K. Kim, H.E. Jang\*<br>
+  *Journal of Computational Design and Engineering (JCDE)*, 2026 · Under review<br>
+  <sub>SCIE · JCR Q1, top 6.2% · IF 6.8</sub>
+
+- **ReCAST-Net: Region-Centric Spectral Adaptation and Calibration ...**<br>
+  **J.S. Lee**, K. Woradit, J. Park, H.E. Jang\*<br>
+  *Journal of Computational Design and Engineering (JCDE)*, 2026 · Under review<br>
+  <sub>SCIE · JCR Q1, top 6.2% · IF 6.8</sub>
 
 ### Domestic journals
 
 - **[Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][ikeee-croppaste]**<br>
   **J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang\*<br>
-  *Journal of IKEEE*, 2025 · KCI
+  *Journal of IKEEE*, 2025<br>
+  <sub>KCI</sub>
 
 - **[Enhanced Copy-Paste Data Augmentation Using SAM for Precise Ship Detection][ikeee-ship]**<br>
   J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang\*<br>
-  *Journal of IKEEE*, 2025 · KCI
+  *Journal of IKEEE*, 2025<br>
+  <sub>KCI</sub>
 
 - **[Effective Data Preprocessing and Augmentation Methods of SAR Images for Optical Image Translation][jbe]**<br>
   H.W. Seo, **J.S. Lee**, W.J. Park, H.C. Choi, K.H. Kim, H.E. Jang\*<br>
-  *Journal of Broadcast Engineering (JBE)*, 2025 · KCI
+  *Journal of Broadcast Engineering (JBE)*, 2025<br>
+  <sub>KCI</sub>
 
 - **[Effective Detection of Generated Images Using Frequency Transform][jok]**<br>
   H.W. Seo, D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*<br>
-  *Journal of KIISE (JOK)*, 2025 · KCI
+  *Journal of KIISE (JOK)*, 2025<br>
+  <sub>KCI</sub>
 
 - **[Effective Data Augmentations for Cross-Domain Fingerprint Recognition][df-2024]**<br>
   D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*<br>
-  *Journal of Digital Forensics*, 2024 · KCI
+  *Journal of Digital Forensics*, 2024<br>
+  <sub>KCI</sub>
 
 - **[Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters][df-2023]**<br>
   **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\*<br>
-  *Journal of Digital Forensics*, 2023 · KCI
-
+  *Journal of Digital Forensics*, 2023<br>
+  <sub>KCI</sub>
 
 ### Domestic conferences
 
@@ -94,11 +100,11 @@ built on vision foundation models and vision–language models.
 
 - **Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform**<br>
   H.W. Seo, **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang<br>
-  *Korean Digital Forensics Society Winter Conference (KDFS)*, 2023 · **Best Paper Award (President of Society Award)**
+  *Korean Digital Forensics Society Winter Conference (KDFS)*, 2023 · **Best Paper Award** (President of Society Award)
 
 - **Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model**<br>
   **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang<br>
-  *Korean Digital Forensics Society Summer Conference (KDFS)*, 2023 · **Best Paper Award (Commissioner General of the Korea Coast Guard Award)**
+  *Korean Digital Forensics Society Summer Conference (KDFS)*, 2023 · **Best Paper Award** (Commissioner General of the Korea Coast Guard Award)
 
 - **Effective Data Augmentations for Fingerprint Recognition**<br>
   D.S. Kim, **J.S. Lee**, S.Y. Oh, H.E. Jang<br>
@@ -110,13 +116,13 @@ built on vision foundation models and vision–language models.
 
 - **[Development of Optical Character Recognition Model for Document Leak Investigation][kdfs-ocr]**<br>
   E.J. Jang, **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang<br>
-  *Korean Digital Forensics Society Winter Conference (KDFS)*, 2022 · **Best Paper Award (President of Society Award)**
+  *Korean Digital Forensics Society Winter Conference (KDFS)*, 2022 · **Best Paper Award** (President of Society Award)
 
 ## Experience
 
 | Period | Role | Focus |
 |:--|:--|:--|
-| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → ACCV 2026, Pattern Recognition, IEEE TMM |
+| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → Pattern Recognition 2026, ACCV 2026, 4 manuscripts under review |
 | 2025.01 – 2025.10 | **Collaborative Research** · DataMaker | Military AI — open-vocabulary zero-shot detection of military vehicles (Joint Command project) |
 | 2024.07 – 2024.09 | **Research Intern** · SI Analytics | Remote sensing and UAV vision — improved a SAM-based parcel segmentation model → [KJRS 2024 paper][kjrs] |
 | 2024.01 – 2024.12 | **Capstone Design** · SkyPixel | SAR image analysis and semantic segmentation — despeckling, generative models, augmentation, knowledge distillation → Gold Prize |
@@ -132,12 +138,12 @@ built on vision foundation models and vision–language models.
 
 | Result | Competition | Award |
 |:--|:--|:--|
-| **2nd**&nbsp;/&nbsp;66<br><sub>top 3.0%</sub> | [Cyrillic Morphological Induction Grand Challenge 2026][cmi]<br><sub>Morphology induction for a synthetic Cyrillic language · Kaggle · Team Christopher · **$200 prize pool**</sub> | |
-| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | **Excellence Award (최우수상)**<br><sub>Approx. **$1,105**</sub> |
-| **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · Approx. **$7,367**</sub> |
+| **2nd**&nbsp;/&nbsp;66<br><sub>top 3.0%</sub> | [Cyrillic Morphological Induction Grand Challenge 2026][cmi]<br><sub>Morphology induction for a synthetic Cyrillic language · Kaggle · Team Christopher · $200 prize pool</sub> | |
+| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | **Excellence Award (최우수상)**<br><sub>approx. $1,105</sub> |
+| **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · approx. $7,367</sub> |
 | **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection Challenge 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
-| **17th**&nbsp;/&nbsp;227<br><sub>top 7.5%</sub> | [SW-Centered University Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news]<br><sub>DEEPNOID Award · Approx. **$368**</sub> |
-| **8th**&nbsp;/&nbsp;77<br><sub>top 10.4%</sub> | [SW-Centered University Joint AI Competition 2022 — Finals][sw2022]<br><sub>Korean text OCR · DACON · Team AIM.Lab</sub> | [**Encouragement Prize**][sw2022-news]<br><sub>President of SW-Centered University Council Award · Approx. **$221**</sub> |
+| **17th**&nbsp;/&nbsp;227<br><sub>top 7.5%</sub> | [SW-Centered University Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news]<br><sub>DEEPNOID Award · approx. $368</sub> |
+| **8th**&nbsp;/&nbsp;77<br><sub>top 10.4%</sub> | [SW-Centered University Joint AI Competition 2022 — Finals][sw2022]<br><sub>Korean text OCR · DACON · Team AIM.Lab</sub> | [**Encouragement Prize**][sw2022-news]<br><sub>President of SW-Centered University Council Award · approx. $221</sub> |
 | **1st**&nbsp;/&nbsp;192 | [SW-Centered University Joint AI Competition 2022 — Preliminaries][sw2022-pre]<br><sub>Psychological trait prediction on tabular data · DACON · Team AIM.Lab</sub> | |
 
 **Other awards**
@@ -149,13 +155,17 @@ built on vision foundation models and vision–language models.
 
 ## Teaching and service
 
-Teaching assistant under Prof. Haneol Jang, Hanbat National University
+**Teaching assistant** — under Prof. Haneol Jang, Hanbat National University
 
 - **Computer Vision** — graduate course · Spring 2026, Fall 2026
 - **Computer Vision** — 4th-year Computer Engineering · Fall 2025
 - **Artificial Intelligence and Applications** — 3rd-year Computer Engineering · Spring 2024, Spring 2025
 - **Data Structure** — 2nd-year Computer Engineering · Spring 2023
 - **Hanbat AI Intensive Course** — 2023.01
+
+**Service**
+
+- **Reviewer** — IEEE Transactions on Multimedia (TMM) · 2026
 - **Kaggle competition host** — [Sejong RISE Cyber-Attack Anomaly Score Prediction Challenge][rise-kaggle] · 15 teams · 2025.12
 
 ## Skills and certifications
