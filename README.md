@@ -22,7 +22,7 @@ built on vision foundation models and vision–language models.
 - **HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection**<br>
   **J.S. Lee**, H.W. Seo, E.K. Kim, H.E. Jang\*<br>
   *Pattern Recognition (PR)*, 2026 · **Accepted**<br>
-  <sub>SCIE · JCR Q1, top 6.8% · IF 9.1</sub>
+  <sub>SCIE · JCR Q1, top 6.6% · IF 9.1</sub>
 
 - **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**<br>
   **J.S. Lee**, S.Y. Oh, C. Park, H.E. Jang\*<br>
@@ -138,7 +138,6 @@ built on vision foundation models and vision–language models.
 
 | Result | Competition | Award |
 |:--|:--|:--|
-| **2nd**&nbsp;/&nbsp;66<br><sub>top 3.0%</sub> | [Cyrillic Morphological Induction Grand Challenge 2026][cmi]<br><sub>Morphology induction for a synthetic Cyrillic language · Kaggle · Team Christopher · $200 prize pool</sub> | |
 | **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | **Excellence Award (최우수상)**<br><sub>approx. $1,105</sub> |
 | **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · approx. $7,367</sub> |
 | **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection Challenge 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
@@ -166,7 +165,6 @@ built on vision foundation models and vision–language models.
 **Service**
 
 - **Reviewer** — IEEE Transactions on Multimedia (TMM) · 2026
-- **Kaggle competition host** — [Sejong RISE Cyber-Attack Anomaly Score Prediction Challenge][rise-kaggle] · 15 teams · 2025.12
 
 ## Skills and certifications
 
@@ -191,7 +189,6 @@ built on vision foundation models and vision–language models.
 [kdfs-ocr]: https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link
 
 <!-- Competitions and awards -->
-[cmi]: https://www.kaggle.com/competitions/cyrillic-morphological-induction-grand-challenge/leaderboard
 [knps]: https://aifactory.space/ko/competitions/9305/leaderboard
 [aispark]: https://aifactory.space/ko/competitions/2723
 [sw2023]: https://dacon.io/competitions/official/236092/leaderboard
@@ -201,7 +198,6 @@ built on vision foundation models and vision–language models.
 [sw2022-pre]: https://dacon.io/competitions/official/235902/leaderboard
 [creative]: https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png
 [portfolio]: https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do
-[rise-kaggle]: https://www.kaggle.com/competitions/cyber-attack-anomaly-scores-regression
 
 <!-- Certifications -->
 [dl-1]: https://www.coursera.org/account/accomplishments/certificate/CFD2R4LJKXBK
