@@ -21,12 +21,12 @@ built on vision foundation models and vision–language models.
 
 - **[HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection](https://doi.org/10.1016/j.patcog.2026.115066)**<br>
   **J.S. Lee**, H.W. Seo, E.K. Kim\*, H.E. Jang\*<br>
-  *Pattern Recognition (PR)*, Vol. 183, Part B, Article 115066, March 2027 · **Published online in 2026** · [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0031320326020303)<br>
+  *Pattern Recognition (PR)*, Vol. 183, Part B, Article 115066, March 2027 <br>
   <sub>SCIE · JCR Q1, top 6.6% · IF 9.1</sub>
 
 - **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**<br>
   **J.S. Lee**, S.Y. Oh, C. Park\*, H.E. Jang\*<br>
-  *Asian Conference on Computer Vision (ACCV)*, 2026 · **To Appear** · [Conference](https://accv2026.org/)<br>
+  *Asian Conference on Computer Vision (ACCV)*, 2026 <br>
   <sub>BK21 CS-recognized conference (IF 1) · Grand Cube Osaka, Japan · Dec 16–18, 2026</sub>
 
 - **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**<br>
