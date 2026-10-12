@@ -21,7 +21,7 @@ built on vision foundation models and vision–language models.
 
 - **[HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection](https://doi.org/10.1016/j.patcog.2026.115066)**<br>
   **J.S. Lee**, H.W. Seo, E.K. Kim\*, H.E. Jang\*<br>
-  *Pattern Recognition (PR)*, 2026 · **Available Online** · [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0031320326020303)<br>
+  *Pattern Recognition (PR)*, Vol. 183, Part B, Article 115066, March 2027 · **Published online in 2026** · [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0031320326020303)<br>
   <sub>SCIE · JCR Q1, top 6.6% · IF 9.1</sub>
 
 - **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**<br>
@@ -122,7 +122,7 @@ built on vision foundation models and vision–language models.
 
 | Period | Role | Focus |
 |:--|:--|:--|
-| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → Pattern Recognition 2026, ACCV 2026, 4 manuscripts under review |
+| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → Pattern Recognition (published online 2026; Vol. 183, 2027), ACCV 2026, 4 manuscripts under review |
 | 2025.01 – 2025.10 | **Collaborative Research** · DataMaker | Military AI — open-vocabulary zero-shot detection of military vehicles (Joint Command project) |
 | 2024.07 – 2024.09 | **Research Intern** · SI Analytics | Remote sensing and UAV vision — improved a SAM-based parcel segmentation model → [KJRS 2024 paper][kjrs] |
 | 2024.01 – 2024.12 | **Capstone Design** · SkyPixel | SAR image analysis and semantic segmentation — despeckling, generative models, augmentation, knowledge distillation → Gold Prize |
