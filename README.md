@@ -21,13 +21,13 @@ built on vision foundation models and vision–language models.
 
 - **[HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection](https://doi.org/10.1016/j.patcog.2026.115066)**<br>
   **J.S. Lee**, H.W. Seo, E.K. Kim\*, H.E. Jang\*<br>
-  *Pattern Recognition (PR)*, Vol. 183, Part B, Article 115066, March 2027 <br>
+  *Pattern Recognition (PR)*, Vol. 183, Part B, March 2027 <br>
   <sub>SCIE · JCR Q1, top 6.6% · IF 9.1</sub>
 
 - **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**<br>
   **J.S. Lee**, S.Y. Oh, C. Park\*, H.E. Jang\*<br>
   *Asian Conference on Computer Vision (ACCV)*, 2026 <br>
-  <sub>BK21 CS-recognized conference (IF 1) · Grand Cube Osaka, Japan · Dec 16–18, 2026</sub>
+  <sub>BK21 CS Outstanding Conference · Osaka, Japan · Dec 16–18, 2026</sub>
 
 - **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**<br>
   **J.S. Lee**, H. Kim, J. Koo, H. Choi, D.Y. Jeong\*<br>
@@ -170,7 +170,6 @@ built on vision foundation models and vision–language models.
 
 - **Programming** — Python, C, C++, Java
 - **Libraries** — PyTorch, NumPy, Pandas, scikit-learn
-- **Research workflow** — multi-domain AI-agent workflows for research coding and experiment design · 50B+ tokens used as of 2026.09.21
 - **Writing** — [paper-review blog](https://kkubuck.github.io/) with 38+ paper reviews and 27+ research notes, mostly camouflaged and open-vocabulary segmentation
 - **Deep Learning Specialization** — Coursera · [Neural Networks and Deep Learning][dl-1] · [Improving Deep Neural Networks][dl-2] · [Structuring Machine Learning Projects][dl-3] · [Convolutional Neural Networks][dl-4] · [Sequence Models][dl-5] · 2023
 - **LivDet 2023 Fingerprint Liveness Detection Competition** — Challenge 1 certificate · 2023.01
