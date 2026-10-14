@@ -138,7 +138,7 @@ built on vision foundation models and vision–language models.
 
 | Result | Competition | Award |
 |:--|:--|:--|
-| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | **Excellence Award (최우수상)**<br><sub>approx. $1,105</sub> |
+| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | [**Excellence Award (최우수상)**][knps-award]<br><sub>KRW 1,500,000</sub> |
 | **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · approx. $7,367</sub> |
 | **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection Challenge 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
 | **17th**&nbsp;/&nbsp;227<br><sub>top 7.5%</sub> | [SW-Centered University Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news]<br><sub>DEEPNOID Award · approx. $368</sub> |
@@ -189,6 +189,7 @@ built on vision foundation models and vision–language models.
 
 <!-- Competitions and awards -->
 [knps]: https://aifactory.space/ko/competitions/9305/leaderboard
+[knps-award]: https://aifactory.space/ko/competitions/9305/posts/notice/253
 [aispark]: https://aifactory.space/ko/competitions/2723
 [sw2023]: https://dacon.io/competitions/official/236092/leaderboard
 [sw2023-news]: https://www.chungnamilbo.co.kr/news/articleView.html?idxno=730542
