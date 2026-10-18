@@ -2,12 +2,7 @@
 
 # Jisang Lee
 
-<sub>이지상 · Daejeon, Korea</sub>
-
 **Computer vision researcher** · M.S. student at AIM Lab, Hanbat National University
-
-Detection and segmentation for hard-to-see imagery — camouflaged objects, SAR, and UAV scenes —<br>
-built on vision foundation models and vision–language models.
 
 [Email](mailto:nacl3084@gmail.com) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=ko&user=54qWclUAAAAJ) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jisanglee/) &nbsp;·&nbsp; [Blog](https://kkubuck.github.io/) &nbsp;·&nbsp; [CV](https://raw.githubusercontent.com/Kkubuck/kkubuck/main/CV_Jisang_Lee.pdf)
 
