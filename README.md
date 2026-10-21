@@ -133,6 +133,7 @@
 
 | Result | Competition | Award |
 |:--|:--|:--|
+| **9th**&nbsp;/&nbsp;231<br><sub>top 3.9%</sub> | [Synthetic Microstructure-Based Material Property Prediction AI Competition 2026][microstructure]<br><sub>Material hardness prediction from 2D synthetic microstructure images · DAKER</sub> | |
 | **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | [**Excellence Award (최우수상)**][knps-award]<br><sub>KRW 1,500,000</sub> |
 | **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · approx. $7,367</sub> |
 | **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection Challenge 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
@@ -183,6 +184,7 @@
 [kdfs-ocr]: https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link
 
 <!-- Competitions and awards -->
+[microstructure]: https://daker.ai/public/hackathons/synthetic-microstructure-property-prediction-ai?section=leaderboard
 [knps]: https://aifactory.space/ko/competitions/9305/leaderboard
 [knps-award]: https://aifactory.space/ko/competitions/9305/posts/notice/253
 [aispark]: https://aifactory.space/ko/competitions/2723
