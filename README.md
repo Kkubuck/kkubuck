@@ -134,11 +134,11 @@
 | Result | Competition | Award |
 |:--|:--|:--|
 | **9th**&nbsp;/&nbsp;231<br><sub>top 3.9%</sub> | [Synthetic Microstructure-Based Material Property Prediction AI Competition 2026][microstructure]<br><sub>Material hardness prediction from 2D synthetic microstructure images · DAKER</sub> | |
-| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | [**Excellence Award (최우수상)**][knps-award]<br><sub>KRW 1,500,000</sub> |
-| **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · approx. $7,367</sub> |
+| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | [**Excellence Award (최우수상)**][knps-award]<br><sub>approx. US$1,134</sub> |
+| **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · approx. US$7,367</sub> |
 | **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection Challenge 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
-| **17th**&nbsp;/&nbsp;227<br><sub>top 7.5%</sub> | [SW-Centered University Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news]<br><sub>DEEPNOID Award · approx. $368</sub> |
-| **8th**&nbsp;/&nbsp;77<br><sub>top 10.4%</sub> | [SW-Centered University Joint AI Competition 2022 — Finals][sw2022]<br><sub>Korean text OCR · DACON · Team AIM.Lab</sub> | [**Encouragement Prize**][sw2022-news]<br><sub>President of SW-Centered University Council Award · approx. $221</sub> |
+| **17th**&nbsp;/&nbsp;227<br><sub>top 7.5%</sub> | [SW-Centered University Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news]<br><sub>DEEPNOID Award · approx. US$368</sub> |
+| **8th**&nbsp;/&nbsp;77<br><sub>top 10.4%</sub> | [SW-Centered University Joint AI Competition 2022 — Finals][sw2022]<br><sub>Korean text OCR · DACON · Team AIM.Lab</sub> | [**Encouragement Prize**][sw2022-news]<br><sub>President of SW-Centered University Council Award · approx. US$221</sub> |
 | **1st**&nbsp;/&nbsp;192 | [SW-Centered University Joint AI Competition 2022 — Preliminaries][sw2022-pre]<br><sub>Psychological trait prediction on tabular data · DACON · Team AIM.Lab</sub> | |
 
 **Other awards**
