@@ -133,7 +133,7 @@
 
 | Result | Competition | Award |
 |:--|:--|:--|
-| **217th**&nbsp;/&nbsp;6,425<br><sub>Private · top 3.4%</sub> | [RSNA Knee Abnormality Detection 2026][rsna-knee]<br><sub>Multimodal knee MRI abnormality detection · Kaggle</sub> | [**Silver Medal**][rsna-knee] |
+| **217th**&nbsp;/&nbsp;6,425<br><sub>top 3.4%</sub> | [RSNA Knee Abnormality Detection 2026][rsna-knee]<br><sub>Multimodal knee MRI abnormality detection · Kaggle</sub> | [**Silver Medal**][rsna-knee] |
 | **9th**&nbsp;/&nbsp;231<br><sub>top 3.9%</sub> | [Synthetic Microstructure-Based Material Property Prediction AI Competition 2026][microstructure]<br><sub>Material hardness prediction from 2D synthetic microstructure images · DAKER</sub> | |
 | **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | [**Excellence Award (최우수상)**][knps-award]<br><sub>approx. US$1,134</sub> |
 | **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · approx. US$7,367</sub> |
