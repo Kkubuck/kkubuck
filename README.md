@@ -33,7 +33,7 @@
 
 - **SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**<br>
   **J.S. Lee**, C. Park, H.E. Jang\*<br>
-  *IEEE Transactions on Multimedia (TMM)*, 2026 · **Major revision**<br>
+  *IEEE Transactions on Multimedia (TMM)*, 2026 · **Minor revision**<br>
   <sub>SCIE · JCR Q1, top 2.3% · IF 9.9</sub>
 
 - **Correcting What Matters: Multispectral Evidence-Guided Signed Rectification ...**<br>
