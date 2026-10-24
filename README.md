@@ -34,12 +34,12 @@
 - **SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**<br>
   **J.S. Lee**, C. Park, H.E. Jang\*<br>
   *IEEE Transactions on Multimedia (TMM)*, 2026 · **Minor revision**<br>
-  <sub>SCIE · JCR Q1, top 2.3% · IF 9.9</sub>
+  <sub>SCIE · JCR 2025 Q1, <a href="https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20T%20MULTIMEDIA&amp;year=2025" title="Computer Science, Software Engineering; JIF rank 3/130; JIF percentile 98.1; top percentage = 100 - JIF percentile">top 1.9%</a> (Software Engineering) · IF 9.9</sub>
 
 - **Correcting What Matters: Multispectral Evidence-Guided Signed Rectification ...**<br>
   **J.S. Lee**, W. Park, S. Pyo, K.T. Lim, H.E. Jang\*<br>
   *IEEE Transactions on Multimedia (TMM)*, 2026 · Under review<br>
-  <sub>SCIE · JCR Q1, top 2.3% · IF 9.9</sub>
+  <sub>SCIE · JCR 2025 Q1, <a href="https://jcr.clarivate.com/jcr-jp/journal-profile?journal=IEEE%20T%20MULTIMEDIA&amp;year=2025" title="Computer Science, Software Engineering; JIF rank 3/130; JIF percentile 98.1; top percentage = 100 - JIF percentile">top 1.9%</a> (Software Engineering) · IF 9.9</sub>
 
 - **RefTRACE: Reference-Faithful Evaluation and Dense Evidence Routing ...**<br>
   **J.S. Lee**, W. Park, E.K. Kim, H.E. Jang\*<br>
