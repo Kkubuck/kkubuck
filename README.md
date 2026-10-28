@@ -14,6 +14,11 @@
 
 ### International
 
+- **SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**<br>
+  **J.S. Lee**, C. Park, H.E. Jang\*<br>
+  *IEEE Transactions on Multimedia (TMM)*, 2026 · **Accepted**<br>
+  <sub>SCIE · JCR Q1, top 1.9% · IF 9.9</sub>
+
 - **[HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection](https://doi.org/10.1016/j.patcog.2026.115066)**<br>
   **J.S. Lee**, H.W. Seo, E.K. Kim\*, H.E. Jang\*<br>
   *Pattern Recognition (PR)*, Vol. 183, Part B, March 2027 <br>
@@ -30,11 +35,6 @@
   <sub>ESCI · Scopus</sub>
 
 ### Under review
-
-- **SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**<br>
-  **J.S. Lee**, C. Park, H.E. Jang\*<br>
-  *IEEE Transactions on Multimedia (TMM)*, 2026 · **Minor revision**<br>
-  <sub>SCIE · JCR Q1, top 1.9% · IF 9.9</sub>
 
 - **Correcting What Matters: Multispectral Evidence-Guided Signed Rectification ...**<br>
   **J.S. Lee**, W. Park, S. Pyo, K.T. Lim, H.E. Jang\*<br>
@@ -117,7 +117,7 @@
 
 | Period | Role | Focus |
 |:--|:--|:--|
-| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → Pattern Recognition (published online 2026; Vol. 183, 2027), ACCV 2026, 4 manuscripts under review |
+| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → Pattern Recognition (published online 2026; Vol. 183, 2027), TMM (accepted), ACCV 2026, 3 manuscripts under review |
 | 2025.01 – 2025.10 | **Collaborative Research** · DataMaker | Military AI — open-vocabulary zero-shot detection of military vehicles (Joint Command project) |
 | 2024.07 – 2024.09 | **Research Intern** · SI Analytics | Remote sensing and UAV vision — improved a SAM-based parcel segmentation model → [KJRS 2024 paper][kjrs] |
 | 2024.01 – 2024.12 | **Capstone Design** · SkyPixel | SAR image analysis and semantic segmentation — despeckling, generative models, augmentation, knowledge distillation → Gold Prize |
