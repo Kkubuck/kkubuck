@@ -21,12 +21,12 @@
 
 - **[HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection](https://doi.org/10.1016/j.patcog.2026.115066)**<br>
   **J.S. Lee**, H.W. Seo, E.K. Kim\*, H.E. Jang\*<br>
-  *Pattern Recognition (PR)*, Vol. 183, Part B, March 2027 <br>
+  *Pattern Recognition (PR)*, Vol. 183, Part B, March 2027 · [**Code**][hfgf-code]<br>
   <sub>SCIE · JCR Q1, top 6.9% · IF 9.1</sub>
 
 - **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**<br>
   **J.S. Lee**, S.Y. Oh, C. Park\*, H.E. Jang\*<br>
-  *Asian Conference on Computer Vision (ACCV)*, 2026 <br>
+  *Asian Conference on Computer Vision (ACCV)*, 2026 · [**Code**][idssam-code]<br>
   <sub>BK21 CS Outstanding Conference · Osaka, Japan · Dec 16–18, 2026</sub>
 
 - **[Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms][kjrs]**<br>
@@ -136,12 +136,12 @@
 | **40th**&nbsp;/&nbsp;468<br><sub>top 8.5%</sub> | [AI Technology Competition for Port Problem Solving 2026][port]<br><sub>Vessel entity matching from port entry and departure records · DACON</sub> | |
 | **209th**&nbsp;/&nbsp;6,299<br><sub>top 3.3%</sub> | [RSNA Knee Abnormality Detection 2026][rsna-knee]<br><sub>Multimodal knee MRI abnormality detection · Kaggle</sub> | [**Silver Medal**][rsna-knee] |
 | **9th**&nbsp;/&nbsp;231<br><sub>top 3.9%</sub> | [Synthetic Microstructure-Based Material Property Prediction AI Competition 2026][microstructure]<br><sub>Material hardness prediction from 2D synthetic microstructure images · DAKER</sub> | |
-| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | [**Excellence Award (최우수상)**][knps-award]<br><sub>approx. US$1,134</sub> |
+| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | [**Top Excellence Award (최우수상)**][knps-award]<br><sub>approx. US$1,134</sub> |
 | **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · approx. US$7,367</sub> |
 | **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection Challenge 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
 | **17th**&nbsp;/&nbsp;227<br><sub>top 7.5%</sub> | [SW-Centered University Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news]<br><sub>DEEPNOID Award · approx. US$368</sub> |
 | **8th**&nbsp;/&nbsp;77<br><sub>top 10.4%</sub> | [SW-Centered University Joint AI Competition 2022 — Finals][sw2022]<br><sub>Korean text OCR · DACON · Team AIM.Lab</sub> | [**Encouragement Prize**][sw2022-news]<br><sub>President of SW-Centered University Council Award · approx. US$221</sub> |
-| **1st**&nbsp;/&nbsp;192 | [SW-Centered University Joint AI Competition 2022 — Preliminaries][sw2022-pre]<br><sub>Psychological trait prediction on tabular data · DACON · Team AIM.Lab</sub> | |
+| **1st**&nbsp;/&nbsp;192 | [SW-Centered University Joint AI Competition 2022 — Preliminaries][sw2022-pre]<br><sub>Psychological trait prediction on tabular data · DACON · Team AIM.Lab</sub> | [**1st-place solution**][sw2022-pre-code]<br><sub>Code · private ROC-AUC 0.90396</sub> |
 
 **Other awards**
 
@@ -173,6 +173,8 @@
 - **LivDet 2023 Fingerprint Liveness Detection Competition** — Challenge 1 certificate · 2023.01
 
 <!-- Publications -->
+[hfgf-code]: https://github.com/Kkubuck/HFGF-DINOv3
+[idssam-code]: https://github.com/Kkubuck/IDS-SAM
 [kjrs]: https://www.kjrs.org/journal/view.html?pn=current_issue&uid=1005&vmd=Full
 [ikeee-croppaste]: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221134
 [ikeee-ship]: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003289626
@@ -197,6 +199,7 @@
 [sw2022]: https://dacon.io/competitions/official/235970/leaderboard
 [sw2022-news]: https://www.dtnews24.com/news/articleView.html?idxno=735256
 [sw2022-pre]: https://dacon.io/competitions/official/235902/leaderboard
+[sw2022-pre-code]: https://github.com/Kkubuck/Dacon
 [creative]: https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png
 [portfolio]: https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do
 
