@@ -133,6 +133,7 @@
 
 | Result | Competition | Award |
 |:--|:--|:--|
+| **40th**&nbsp;/&nbsp;468<br><sub>top 8.5%</sub> | [AI Technology Competition for Port Problem Solving 2026][port]<br><sub>Vessel entity matching from port entry and departure records · DACON</sub> | |
 | **209th**&nbsp;/&nbsp;6,299<br><sub>top 3.3%</sub> | [RSNA Knee Abnormality Detection 2026][rsna-knee]<br><sub>Multimodal knee MRI abnormality detection · Kaggle</sub> | [**Silver Medal**][rsna-knee] |
 | **9th**&nbsp;/&nbsp;231<br><sub>top 3.9%</sub> | [Synthetic Microstructure-Based Material Property Prediction AI Competition 2026][microstructure]<br><sub>Material hardness prediction from 2D synthetic microstructure images · DAKER</sub> | |
 | **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | [**Excellence Award (최우수상)**][knps-award]<br><sub>approx. US$1,134</sub> |
@@ -185,6 +186,7 @@
 [kdfs-ocr]: https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link
 
 <!-- Competitions and awards -->
+[port]: https://dacon.io/competitions/official/236771/leaderboard
 [rsna-knee]: https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/leaderboard
 [microstructure]: https://daker.ai/public/hackathons/synthetic-microstructure-property-prediction-ai?section=leaderboard
 [knps]: https://aifactory.space/ko/competitions/9305/leaderboard
