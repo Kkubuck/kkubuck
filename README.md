@@ -168,7 +168,7 @@
 
 - **Programming** — Python, C, C++, Java
 - **Libraries** — PyTorch, NumPy, Pandas, scikit-learn
-- **Writing** — [paper-review blog](https://kkubuck.github.io/) with 38+ paper reviews and 27+ research notes, mostly camouflaged and open-vocabulary segmentation
+- **Writing** — [technical blog](https://kkubuck.github.io/) with study notes on data structures, machine learning and deep learning
 - **Deep Learning Specialization** — Coursera · [Neural Networks and Deep Learning][dl-1] · [Improving Deep Neural Networks][dl-2] · [Structuring Machine Learning Projects][dl-3] · [Convolutional Neural Networks][dl-4] · [Sequence Models][dl-5] · 2023
 - **LivDet 2023 Fingerprint Liveness Detection Competition** — Challenge 1 certificate · 2023.01
 
