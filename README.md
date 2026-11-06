@@ -10,12 +10,12 @@
 
 ## Publications
 
-<sub>\* corresponding author</sub>
+<sub>\* corresponding author · † co-first author</sub>
 
 ### International
 
 - **SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**<br>
-  **J.S. Lee**, C. Park, H.E. Jang\*<br>
+  **J.S. Lee**, C. Park\*, H.E. Jang\*<br>
   *IEEE Transactions on Multimedia (TMM)*, 2026 · **Accepted**<br>
   <sub>SCIE · JCR Q1, top 1.9% · IF 9.9</sub>
 
@@ -25,7 +25,7 @@
   <sub>SCIE · JCR Q1, top 6.9% · IF 9.1</sub>
 
 - **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**<br>
-  **J.S. Lee**, S.Y. Oh, C. Park\*, H.E. Jang\*<br>
+  **J.S. Lee**†, S.Y. Oh†, C. Park\*, H.E. Jang\*<br>
   *Asian Conference on Computer Vision (ACCV)*, 2026 · [**Code**][idssam-code]<br>
   <sub>BK21 CS Outstanding Conference · Osaka, Japan · Dec 16–18, 2026</sub>
 
@@ -42,7 +42,7 @@
   <sub>SCIE · JCR Q1, top 1.9% · IF 9.9</sub>
 
 - **RefTRACE: Reference-Faithful Evaluation and Dense Evidence Routing ...**<br>
-  **J.S. Lee**, W. Park, E.K. Kim, H.E. Jang\*<br>
+  **J.S. Lee**, W. Park, E.K. Kim\*, H.E. Jang\*<br>
   *Journal of Computational Design and Engineering (JCDE)*, 2026 · Under review<br>
   <sub>SCIE · JCR Q1, top 5.9% · IF 6.8</sub>
 
