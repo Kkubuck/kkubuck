@@ -136,7 +136,7 @@
 | **40th**&nbsp;/&nbsp;468<br><sub>top 8.5%</sub> | [AI Technology Competition for Port Problem Solving 2026][port]<br><sub>Vessel entity matching from port entry and departure records · DACON</sub> | |
 | **209th**&nbsp;/&nbsp;6,299<br><sub>top 3.3%</sub> | [RSNA Knee Abnormality Detection 2026][rsna-knee]<br><sub>Multimodal knee MRI abnormality detection · Kaggle</sub> | [**Silver Medal**][rsna-knee] |
 | **9th**&nbsp;/&nbsp;231<br><sub>top 3.9%</sub> | [Synthetic Microstructure-Based Material Property Prediction AI Competition 2026][microstructure]<br><sub>Material hardness prediction from 2D synthetic microstructure images · DAKER</sub> | |
-| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory</sub> | [**Top Excellence Award (최우수상)**][knps-award]<br><sub>approx. US$1,134</sub> |
+| **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory · Team 나무를심읍시다</sub> | [**Top Excellence Award (최우수상)**][knps-repo]<br><sub>approx. US$1,134</sub> |
 | **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · approx. US$7,367</sub> |
 | **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection Challenge 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
 | **17th**&nbsp;/&nbsp;227<br><sub>top 7.5%</sub> | [SW-Centered University Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news]<br><sub>DEEPNOID Award · approx. US$368</sub> |
@@ -192,7 +192,7 @@
 [rsna-knee]: https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/leaderboard
 [microstructure]: https://daker.ai/public/hackathons/synthetic-microstructure-property-prediction-ai?section=leaderboard
 [knps]: https://aifactory.space/ko/competitions/9305/leaderboard
-[knps-award]: https://aifactory.space/ko/competitions/9305/posts/notice/253
+[knps-repo]: https://github.com/Kkubuck/KNPS-Landslide-AI-Challenge-2026
 [aispark]: https://aifactory.space/ko/competitions/2723
 [sw2023]: https://dacon.io/competitions/official/236092/leaderboard
 [sw2023-news]: https://www.chungnamilbo.co.kr/news/articleView.html?idxno=730542
