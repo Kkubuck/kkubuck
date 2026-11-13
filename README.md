@@ -131,6 +131,8 @@
 
 ## Competitions and awards
 
+<sub>Code and result summaries: [Kkubuck/AI-Competitions][competitions]</sub>
+
 | Result | Competition | Award |
 |:--|:--|:--|
 | **40th**&nbsp;/&nbsp;468<br><sub>top 8.5%</sub> | [AI Technology Competition for Port Problem Solving 2026][port]<br><sub>Vessel entity matching from port entry and departure records · DACON</sub> | |
@@ -188,18 +190,19 @@
 [kdfs-ocr]: https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link
 
 <!-- Competitions and awards -->
+[competitions]: https://github.com/Kkubuck/AI-Competitions
 [port]: https://dacon.io/competitions/official/236771/leaderboard
 [rsna-knee]: https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/leaderboard
 [microstructure]: https://daker.ai/public/hackathons/synthetic-microstructure-property-prediction-ai?section=leaderboard
 [knps]: https://aifactory.space/ko/competitions/9305/leaderboard
-[knps-repo]: https://github.com/Kkubuck/KNPS-Landslide-AI-Challenge-2026
+[knps-repo]: https://github.com/Kkubuck/AI-Competitions/tree/main/AIFactory/2026-knps-landslide
 [aispark]: https://aifactory.space/ko/competitions/2723
 [sw2023]: https://dacon.io/competitions/official/236092/leaderboard
 [sw2023-news]: https://www.chungnamilbo.co.kr/news/articleView.html?idxno=730542
 [sw2022]: https://dacon.io/competitions/official/235970/leaderboard
 [sw2022-news]: https://www.dtnews24.com/news/articleView.html?idxno=735256
 [sw2022-pre]: https://dacon.io/competitions/official/235902/leaderboard
-[sw2022-pre-code]: https://github.com/Kkubuck/Dacon
+[sw2022-pre-code]: https://github.com/Kkubuck/AI-Competitions/tree/main/DACON/2022-sw-university-preliminary
 [creative]: https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png
 [portfolio]: https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do
 
