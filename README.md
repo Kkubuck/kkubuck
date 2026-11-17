@@ -46,11 +46,6 @@
   *Journal of Computational Design and Engineering (JCDE)*, 2026 · Under review<br>
   <sub>SCIE · JCR Q1, top 5.9% · IF 6.8</sub>
 
-- **ReCAST-Net: Region-Centric Spectral Adaptation and Calibration ...**<br>
-  **J.S. Lee**, K. Woradit, J. Park, H.E. Jang\*<br>
-  *Journal of Computational Design and Engineering (JCDE)*, 2026 · Under review<br>
-  <sub>SCIE · JCR Q1, top 5.9% · IF 6.8</sub>
-
 ### Domestic journals
 
 - **[Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][ikeee-croppaste]**<br>
