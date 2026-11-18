@@ -104,7 +104,7 @@
 
 | Period | Role | Focus |
 |:--|:--|:--|
-| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → Pattern Recognition (published online 2026; Vol. 183, 2027), TMM (accepted), ACCV 2026, 3 manuscripts under review |
+| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → Pattern Recognition (published online 2026; Vol. 183, 2027), TMM (accepted), ACCV 2026, 2 manuscripts under review |
 | 2025.01 – 2025.10 | **Collaborative Research** · DataMaker | Military AI — open-vocabulary zero-shot detection of military vehicles (Joint Command project) |
 | 2024.07 – 2024.09 | **Research Intern** · SI Analytics | Remote sensing and UAV vision — improved a SAM-based parcel segmentation model → [KJRS 2024 paper][kjrs] |
 | 2024.01 – 2024.12 | **Capstone Design** · SkyPixel | SAR image analysis and semantic segmentation — despeckling, generative models, augmentation, knowledge distillation → Gold Prize |
