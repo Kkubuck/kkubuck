@@ -40,23 +40,28 @@
 
 - **[Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][ikeee-croppaste]**<br>
   **J.S. Lee**, H.W. Seo, W.J. Park, H.C. Choi, K.H. Kim, E.K. Kim, H.E. Jang\*<br>
-  *Journal of IKEEE*, 2025
+  *Journal of IKEEE*, 2025<br>
+  <sub>KCI</sub>
 
 - **[Enhanced Copy-Paste Data Augmentation Using SAM for Precise Ship Detection][ikeee-ship]**<br>
   J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang\*<br>
-  *Journal of IKEEE*, 2025
+  *Journal of IKEEE*, 2025<br>
+  <sub>KCI</sub>
 
 - **[Effective Data Preprocessing and Augmentation Methods of SAR Images for Optical Image Translation][jbe]**<br>
   H.W. Seo, **J.S. Lee**, W.J. Park, H.C. Choi, K.H. Kim, H.E. Jang\*<br>
-  *Journal of Broadcast Engineering (JBE)*, 2025
+  *Journal of Broadcast Engineering (JBE)*, 2025<br>
+  <sub>KCI</sub>
 
 - **[Effective Detection of Generated Images Using Frequency Transform][jok]**<br>
   H.W. Seo, D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*<br>
-  *Journal of KIISE (JOK)*, 2025
+  *Journal of KIISE (JOK)*, 2025<br>
+  <sub>KCI</sub>
 
 - **[Effective Data Augmentations for Cross-Domain Fingerprint Recognition][df-2024]**<br>
   D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*<br>
-  *Journal of Digital Forensics*, 2024
+  *Journal of Digital Forensics*, 2024<br>
+  <sub>KCI</sub>
 
 - **[Crop-Paste Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][kcc-croppaste]**<br>
   **J.S. Lee**, H.W. Seo, C. Park, H.E. Jang<br>
@@ -68,7 +73,8 @@
 
 - **[Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters][df-2023]**<br>
   **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang\*<br>
-  *Journal of Digital Forensics*, 2023
+  *Journal of Digital Forensics*, 2023<br>
+  <sub>KCI</sub>
 
 - **Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform**<br>
   H.W. Seo, **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang<br>
