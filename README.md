@@ -36,16 +36,6 @@
   *Korean Journal of Remote Sensing (KJRS)*, 2024<br>
   <sub>ESCI · Scopus</sub>
 
-- **Correcting What Matters: Multispectral Evidence-Guided Signed Rectification ...**<br>
-  **J.S. Lee**, W. Park, S. Pyo, K.T. Lim, H.E. Jang\*<br>
-  *IEEE Transactions on Multimedia (TMM)*, 2026 · Under review<br>
-  <sub>SCIE · JCR Q1, top 1.9% · IF 9.9</sub>
-
-- **RefTRACE: Reference-Faithful Evaluation and Dense Evidence Routing ...**<br>
-  **J.S. Lee**, W. Park, E.K. Kim\*, H.E. Jang\*<br>
-  *Journal of Computational Design and Engineering (JCDE)*, 2026 · Under review<br>
-  <sub>SCIE · JCR Q1, top 5.9% · IF 6.8</sub>
-
 ### Domestic
 
 - **[Crop-Paste Data Augmentation Technique for Enhancing Object Detection Performance in Synthetic Aperture Radar Images][ikeee-croppaste]**<br>
@@ -104,7 +94,7 @@
 
 | Period | Role | Focus |
 |:--|:--|:--|
-| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → Pattern Recognition (published online 2026; Vol. 183, 2027), TMM (accepted), ACCV 2026, 2 manuscripts under review |
+| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → Pattern Recognition (published online 2026; Vol. 183, 2027), TMM (accepted), ACCV 2026 |
 | 2025.01 – 2025.10 | **Collaborative Research** · DataMaker | Military AI — open-vocabulary zero-shot detection of military vehicles (Joint Command project) |
 | 2024.07 – 2024.09 | **Research Intern** · SI Analytics | Remote sensing and UAV vision — improved a SAM-based parcel segmentation model → [KJRS 2024 paper][kjrs] |
 | 2024.01 – 2024.12 | **Capstone Design** · SkyPixel | SAR image analysis and semantic segmentation — despeckling, generative models, augmentation, knowledge distillation → Gold Prize |
