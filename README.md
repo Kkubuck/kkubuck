@@ -21,9 +21,9 @@
 
 ### International journals
 
-- **SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection**<br>
+- **[SARR-Net: Sensor-Aware Relation Routing for Multispectral Camouflaged Object Detection][sarrnet]**<br>
   **J.S. Lee**, C. Park\*, H.E. Jang\*<br>
-  *IEEE Transactions on Multimedia (TMM)*, 2026 · **Accepted** · [**Code**][sarrnet-code]<br>
+  *IEEE Transactions on Multimedia (TMM)*, Early Access, 2026 · [**Code**][sarrnet-code]<br>
   <sub>SCIE · JCR Q1, top 1.9% · IF 9.9</sub>
 
 - **[HFGF-DINOv3: High-Frequency Guided Fusion and Phase-Aware Loss for Camouflaged Object Detection](https://doi.org/10.1016/j.patcog.2026.115066)**<br>
@@ -94,7 +94,7 @@
 
 | Period | Role | Focus |
 |:--|:--|:--|
-| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → Pattern Recognition (published online 2026; Vol. 183, 2027), TMM (accepted), ACCV 2026 |
+| 2025.03 – Present | **M.S. Researcher** · AIM Lab | Detection and segmentation with vision foundation and vision–language models → Pattern Recognition (published online 2026; Vol. 183, 2027), TMM (early access, 2026), ACCV 2026 |
 | 2025.01 – 2025.10 | **Collaborative Research** · DataMaker | Military AI — open-vocabulary zero-shot detection of military vehicles (Joint Command project) |
 | 2024.07 – 2024.09 | **Research Intern** · SI Analytics | Remote sensing and UAV vision — improved a SAM-based parcel segmentation model → [KJRS 2024 paper][kjrs] |
 | 2024.01 – 2024.12 | **Capstone Design** · SkyPixel | SAR image analysis and semantic segmentation — despeckling, generative models, augmentation, knowledge distillation → Gold Prize |
@@ -154,6 +154,7 @@
 <!-- Publications -->
 [hfgf-code]: https://github.com/Kkubuck/HFGF-DINOv3
 [idssam-code]: https://github.com/Kkubuck/IDS-SAM
+[sarrnet]: https://ieeexplore.ieee.org/document/11804714
 [sarrnet-code]: https://github.com/Kkubuck/SARR-Net
 [kjrs]: https://www.kjrs.org/journal/view.html?pn=current_issue&uid=1005&vmd=Full
 [ikeee-croppaste]: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221134
