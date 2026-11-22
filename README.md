@@ -112,7 +112,7 @@
 
 | Result | Competition | Award |
 |:--|:--|:--|
-| **1st**&nbsp;/&nbsp;288<br><sub>private leaderboard</sub> | [IEEE BigData Cup 2026 — AI Emulation Challenge][bigdata-cup]<br><sub>Global-scale land ecosystem forecasting · Kaggle · Team 한 밭 대 학 교</sub> | |
+| **1st**&nbsp;/&nbsp;288 | [IEEE BigData Cup 2026 — AI Emulation Challenge][bigdata-cup]<br><sub>Global-scale land ecosystem forecasting · Kaggle · Team 한 밭 대 학 교</sub> | |
 | **40th**&nbsp;/&nbsp;468<br><sub>top 8.5%</sub> | [AI Technology Competition for Port Problem Solving 2026][port]<br><sub>Vessel entity matching from port entry and departure records · DACON</sub> | |
 | **209th**&nbsp;/&nbsp;6,299<br><sub>top 3.3%</sub> | [RSNA Knee Abnormality Detection 2026][rsna-knee]<br><sub>Multimodal knee MRI abnormality detection · Kaggle</sub> | [**Silver Medal**][rsna-knee] |
 | **9th**&nbsp;/&nbsp;231<br><sub>top 3.9%</sub> | [Synthetic Microstructure-Based Material Property Prediction AI Competition 2026][microstructure]<br><sub>Material hardness prediction from 2D synthetic microstructure images · DAKER</sub> | |
