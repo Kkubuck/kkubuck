@@ -14,7 +14,7 @@
 
 ### International conferences
 
-- **Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation**<br>
+- **[Uncertainty-Guided Structural Routing and Consensus-Aware Re-Ranking for Open-Vocabulary Camouflaged Object Segmentation][accv-paper]**<br>
   **J.S. Lee**†, S.Y. Oh†, C. Park\*, H.E. Jang\*<br>
   *Asian Conference on Computer Vision (ACCV)*, 2026 · [**Code**][idssam-code]<br>
   <sub>BK21 CS Outstanding Conference · Osaka, Japan · Dec 16–18, 2026</sub>
@@ -54,6 +54,10 @@
   H.W. Seo, D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*<br>
   *Journal of KIISE (JOK)*, 2025 · KCI
 
+- **[Ship Detection Data Augmentation Technique Using the Segment Anything Model][kibme-ship]**<br>
+  J.H. Park, **J.S. Lee**, S.M. Pyo, H.E. Jang<br>
+  *Korean Institute of Broadcast and Media Engineers Summer Conference (KIBME)*, 2025
+
 - **[Effective Data Augmentations for Cross-Domain Fingerprint Recognition][df-2024]**<br>
   D.S. Kim, S.Y. Oh, **J.S. Lee**, H.E. Jang\*<br>
   *Journal of Digital Forensics*, 2024 · KCI
@@ -82,11 +86,11 @@
   D.S. Kim, **J.S. Lee**, S.Y. Oh, H.E. Jang<br>
   *Korean Digital Forensics Society Summer Conference (KDFS)*, 2023
 
-- **[Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification][jcci]**<br>
+- **Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification**<br>
   S.Y. Oh, **J.S. Lee**, D.S. Kim, H.E. Jang<br>
   *Joint Conference on Communications and Information (JCCI)*, 2023
 
-- **[Development of Optical Character Recognition Model for Document Leak Investigation][kdfs-ocr]**<br>
+- **Development of Optical Character Recognition Model for Document Leak Investigation**<br>
   E.J. Jang, **J.S. Lee**, D.S. Kim, S.Y. Oh, H.E. Jang<br>
   *Korean Digital Forensics Society Winter Conference (KDFS)*, 2022 · **Best Paper Award** (President of Society Award)
 
@@ -118,16 +122,19 @@
 | **9th**&nbsp;/&nbsp;231<br><sub>top 3.9%</sub> | [Synthetic Microstructure-Based Material Property Prediction AI Competition 2026][microstructure]<br><sub>Material hardness prediction from 2D synthetic microstructure images · DAKER</sub> | |
 | **2nd**&nbsp;/&nbsp;81<br><sub>top 2.5%</sub> | [National Park Satellite Monitoring AI Challenge 2026][knps]<br><sub>Landslide area detection and risk analysis from satellite imagery · AI Factory · Team 나무를심읍시다</sub> | [**Top Excellence Award (최우수상)**][knps-repo]<br><sub>approx. US$1,134</sub> |
 | **1st**&nbsp;/&nbsp;141 | [6th AI SPARK Challenge 2024][aispark]<br><sub>Wildfire area segmentation from satellite imagery · AI Factory · Team AIM</sub> | [**Grand Prize (대상)**][aispark]<br><sub>Innopolis Foundation Chairman's Award · approx. US$7,367</sub> |
-| **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | Fake or Real: AI-Generated Image Detection Challenge 2023<br><sub>Classifying images from generative models · AI Connect</sub> | |
+| **5th**&nbsp;/&nbsp;542<br><sub>top 0.9%</sub> | [Fake or Real: AI-Generated Image Detection Challenge 2023][fake-or-real]<br><sub>Classifying images from generative models · AI Connect</sub> | |
 | **17th**&nbsp;/&nbsp;227<br><sub>top 7.5%</sub> | [SW-Centered University Joint AI Competition 2023][sw2023]<br><sub>Building segmentation from satellite imagery · DACON · Team AIMLP</sub> | [**Special Prize**][sw2023-news]<br><sub>DEEPNOID Award · approx. US$368</sub> |
 | **8th**&nbsp;/&nbsp;77<br><sub>top 10.4%</sub> | [SW-Centered University Joint AI Competition 2022 — Finals][sw2022]<br><sub>Korean text OCR · DACON · Team AIM.Lab</sub> | [**Encouragement Prize**][sw2022-news]<br><sub>President of SW-Centered University Council Award · approx. US$221</sub> |
 | **1st**&nbsp;/&nbsp;192 | [SW-Centered University Joint AI Competition 2022 — Preliminaries][sw2022-pre]<br><sub>Psychological trait prediction on tabular data · DACON · Team AIM.Lab</sub> | [**1st-place solution**][sw2022-pre-code]<br><sub>Code · private ROC-AUC 0.90396</sub> |
 
 **Other awards**
 
-- **Best Paper Award ×3** — Korean Digital Forensics Society (KDFS) · 2023 Summer (Commissioner General of the Korea Coast Guard Award), 2023 Winter and 2022 Winter (President of Society Award)
-- **Gold Prize** — Capstone Design Exhibition (SkyPixel), Hanbat National University · 2024
-- **Special Prize (President's Award)** — [Creative Design Online Competition][creative], Nanum Tech · 2022
+- **Best Paper Award ×3** — Korean Digital Forensics Society (KDFS)
+  - 2023 Summer Conference · Commissioner General of the Korea Coast Guard Award · *Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model*
+  - 2023 Winter Conference · President of Society Award · *Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform*
+  - 2022 Winter Conference · President of Society Award · *Development of Optical Character Recognition Model for Document Leak Investigation*
+- **Gold Prize** — Capstone Design Exhibition ([SkyPixel][skypixel]), Hanbat National University · 2024
+- **Special Prize (Hanbat National University President's Award)** — [14th Creative Design Online Competition][creative], Nanum Tech · 2022
 - **Prize ×3** — [Computer Engineering Portfolio Competition][portfolio], Hanbat National University · 2022, 2023, 2024
 
 ## Teaching and service
@@ -157,17 +164,17 @@
 [idssam-code]: https://github.com/Kkubuck/IDS-SAM
 [sarrnet]: https://ieeexplore.ieee.org/document/11804714
 [sarrnet-code]: https://github.com/Kkubuck/SARR-Net
-[kjrs]: https://www.kjrs.org/journal/view.html?pn=current_issue&uid=1005&vmd=Full
-[ikeee-croppaste]: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003221134
-[ikeee-ship]: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003289626
-[jbe]: https://www.ksbe-jbe.org/xml/45136/45136.pdf
-[jok]: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003194722
-[df-2024]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11750871
-[df-2023]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11538137
-[kcc-sar2opt]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862004
-[kcc-croppaste]: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861967
-[jcci]: https://drive.google.com/file/d/1JzvW7VPcfXuq45uLCjjv14xxmpUsrAOH/view?usp=drive_link
-[kdfs-ocr]: https://drive.google.com/file/d/1bMd2dIO0R3dlRXF_5-ZWIdPSyrw9Bem-/view?usp=drive_link
+[accv-paper]: https://accv2026.org/accepted-papers/
+[kjrs]: https://doi.org/10.7780/kjrs.2024.40.5.1.7
+[ikeee-croppaste]: https://doi.org/10.7471/ikeee.2025.29.2.138
+[ikeee-ship]: https://doi.org/10.7471/ikeee.2025.29.4.682
+[jbe]: https://doi.org/10.5909/JBE.2025.30.3.480
+[jok]: https://doi.org/10.5626/JOK.2025.52.4.350
+[kibme-ship]: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12288223
+[df-2024]: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003071075
+[df-2023]: https://doi.org/10.22798/KDFS.2023.17.3.80
+[kcc-sar2opt]: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862004
+[kcc-croppaste]: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11861967
 
 <!-- Competitions and awards -->
 [competitions]: https://github.com/Kkubuck/AI-Competitions
@@ -178,12 +185,14 @@
 [knps]: https://aifactory.space/ko/competitions/9305/leaderboard
 [knps-repo]: https://github.com/Kkubuck/AI-Competitions/tree/main/AIFactory/2026-knps-landslide
 [aispark]: https://aifactory.space/ko/competitions/2723
+[fake-or-real]: https://www.venturesquare.net/882249
 [sw2023]: https://dacon.io/competitions/official/236092/leaderboard
 [sw2023-news]: https://www.chungnamilbo.co.kr/news/articleView.html?idxno=730542
 [sw2022]: https://dacon.io/competitions/official/235970/leaderboard
 [sw2022-news]: https://www.dtnews24.com/news/articleView.html?idxno=735256
 [sw2022-pre]: https://dacon.io/competitions/official/235902/leaderboard
 [sw2022-pre-code]: https://github.com/Kkubuck/AI-Competitions/tree/main/DACON/2022-sw-university-preliminary
+[skypixel]: https://github.com/HBNU-SWUNIV/come-capstone24-skypixel
 [creative]: https://user-images.githubusercontent.com/115712125/203897708-1a7bc4c2-fe91-4744-a34a-a2d949e9762a.png
 [portfolio]: https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000333/list.do
 
